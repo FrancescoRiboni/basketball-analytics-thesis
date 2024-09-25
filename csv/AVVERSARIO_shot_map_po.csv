@@ -1,0 +1,685 @@
+"game_id","description","assist","player","result","periodTime","totalTime","xx","yy"
+"Milano Trento game 1","2 punti segnato","","Shavon Shields","made",34,34,1020,644
+"Milano Trento game 1","2 punti sbagliato","","Stefano Tonut","missed",102,102,825,196
+"Milano Trento game 1","2 punti sbagliato","","Nicolò Melli","missed",102,102,825,196
+"Milano Trento game 1","3 punti segnato","Nicolò Melli","Shavon Shields","made",128,128,1020,896
+"Milano Trento game 1","3 punti segnato","","Shabazz Napier","made",218,218,300,840
+"Milano Trento game 1","3 punti segnato","Shabazz Napier","Nikola Mirotic","made",257,257,1110,896
+"Milano Trento game 1","2 punti sbagliato","","Shavon Shields","missed",298,298,585,196
+"Milano Trento game 1","2 punti segnato","","Nicolò Melli","made",298,298,585,196
+"Milano Trento game 1","2 punti segnato","Shabazz Napier","Shavon Shields","made",327,327,660,252
+"Milano Trento game 1","2 punti segnato","","Shavon Shields","made",366,366,630,196
+"Milano Trento game 1","3 punti segnato","Shavon Shields","Shabazz Napier","made",405,405,1410,532
+"Milano Trento game 1","2 punti segnato","","Shavon Shields","made",427,427,510,644
+"Milano Trento game 1","2 punti sbagliato","","Giampaolo Ricci","missed",456,456,555,336
+"Milano Trento game 1","3 punti segnato","Giampaolo Ricci","Billy Baron","made",517,517,45,224
+"Milano Trento game 1","2 punti sbagliato","","Kyle Hines","missed",560,560,1095,196
+"Milano Trento game 1","2 punti segnato","Devon Hall","Kyle Hines","made",600,600,750,196
+"Milano Trento game 1","2 punti sbagliato","","Devon Hall","missed",63,663,615,280
+"Milano Trento game 1","3 punti sbagliato","","Giampaolo Ricci","missed",109,709,1365,616
+"Milano Trento game 1","2 punti sbagliato","","Devon Hall","missed",127,727,780,252
+"Milano Trento game 1","2 punti sbagliato","","Giampaolo Ricci","missed",127,727,780,252
+"Milano Trento game 1","2 punti segnato","Nikola Mirotic","Stefano Tonut","made",166,766,315,560
+"Milano Trento game 1","3 punti sbagliato","","Stefano Tonut","missed",203,803,75,420
+"Milano Trento game 1","2 punti segnato","","Nikola Mirotic","made",279,879,1005,140
+"Milano Trento game 1","3 punti sbagliato","","Stefano Tonut","missed",310,910,30,336
+"Milano Trento game 1","3 punti sbagliato","","Nikola Mirotic","missed",329,929,1455,112
+"Milano Trento game 1","2 punti segnato","","Stefano Tonut","made",329,929,1455,112
+"Milano Trento game 1","3 punti sbagliato","","Nicolò Melli","missed",371,971,435,868
+"Milano Trento game 1","3 punti sbagliato","","Nicolò Melli","missed",431,1031,1455,196
+"Milano Trento game 1","3 punti segnato","Shavon Shields","Nicolò Melli","made",443,1043,1320,644
+"Milano Trento game 1","2 punti sbagliato","","Nikola Mirotic","missed",485,1085,780,336
+"Milano Trento game 1","2 punti sbagliato","","Shavon Shields","missed",516,1116,825,196
+"Milano Trento game 1","3 punti sbagliato","","Devon Hall","missed",599,1199,495,476
+"Milano Trento game 1","2 punti sbagliato","","Shabazz Napier","missed",22,1222,675,700
+"Milano Trento game 1","2 punti segnato","Nicolò Melli","Stefano Tonut","made",56,1256,945,252
+"Milano Trento game 1","3 punti sbagliato","","Nikola Mirotic","missed",115,1315,690,952
+"Milano Trento game 1","3 punti sbagliato","","Nicolò Melli","missed",142,1342,180,616
+"Milano Trento game 1","2 punti segnato","","Shavon Shields","made",160,1360,690,140
+"Milano Trento game 1","2 punti sbagliato","","Shavon Shields","missed",200,1400,750,784
+"Milano Trento game 1","2 punti segnato","Shabazz Napier","Stefano Tonut","made",226,1426,915,140
+"Milano Trento game 1","2 punti segnato","Stefano Tonut","Shavon Shields","made",266,1466,810,224
+"Milano Trento game 1","3 punti sbagliato","","Shabazz Napier","missed",322,1522,60,392
+"Milano Trento game 1","2 punti segnato","","Shabazz Napier","made",372,1572,810,280
+"Milano Trento game 1","3 punti sbagliato","","Shabazz Napier","missed",393,1593,1245,728
+"Milano Trento game 1","2 punti segnato","","Kyle Hines","made",415,1615,840,196
+"Milano Trento game 1","2 punti sbagliato","","Billy Baron","missed",486,1686,150,308
+"Milano Trento game 1","3 punti sbagliato","","Giampaolo Ricci","missed",492,1692,1455,112
+"Milano Trento game 1","2 punti sbagliato","","Shavon Shields","missed",532,1732,645,728
+"Milano Trento game 1","2 punti sbagliato","","Shavon Shields","missed",597,1797,780,308
+"Milano Trento game 1","3 punti sbagliato","","Giampaolo Ricci","missed",25,1825,1155,784
+"Milano Trento game 1","2 punti segnato","","Shavon Shields","made",203,2003,540,644
+"Milano Trento game 1","3 punti sbagliato","","Devon Hall","missed",242,2042,45,196
+"Milano Trento game 1","2 punti sbagliato","","Nicolò Melli","missed",273,2073,945,672
+"Milano Trento game 1","2 punti segnato","","Shavon Shields","made",323,2123,855,336
+"Milano Trento game 1","2 punti segnato","","Shabazz Napier","made",362,2162,255,420
+"Milano Trento game 1","3 punti segnato","Nikola Mirotic","Nicolò Melli","made",408,2208,1455,196
+"Milano Trento game 1","3 punti sbagliato","","Shabazz Napier","missed",444,2244,1290,756
+"Milano Trento game 1","2 punti sbagliato","","Stefano Tonut","missed",491,2291,900,196
+"Milano Trento game 1","3 punti sbagliato","","Nicolò Melli","missed",501,2301,1005,868
+"Milano Trento game 1","3 punti sbagliato","","Nicolò Melli","missed",599,2399,720,476
+"Milano Trento game 2","2 punti segnato","","Nicolò Melli","made",39,39,795,252
+"Milano Trento game 2","2 punti segnato","Nikola Mirotic","Nicolò Melli","made",66,66,1125,252
+"Milano Trento game 2","2 punti segnato","Shavon Shields","Nicolò Melli","made",110,110,720,196
+"Milano Trento game 2","3 punti sbagliato","","Nikola Mirotic","missed",136,136,750,896
+"Milano Trento game 2","2 punti segnato","Shabazz Napier","Nicolò Melli","made",171,171,720,560
+"Milano Trento game 2","2 punti segnato","","Stefano Tonut","made",211,211,825,196
+"Milano Trento game 2","2 punti segnato","Shabazz Napier","Nicolò Melli","made",279,279,585,252
+"Milano Trento game 2","2 punti sbagliato","","Diego Flaccadori","missed",313,313,1095,392
+"Milano Trento game 2","2 punti segnato","","Nicolò Melli","made",313,313,1095,392
+"Milano Trento game 2","2 punti segnato","Shavon Shields","Nikola Mirotic","made",344,344,750,252
+"Milano Trento game 2","2 punti segnato","Shavon Shields","Devon Hall","made",368,368,825,168
+"Milano Trento game 2","2 punti sbagliato","","Devon Hall","missed",390,390,510,308
+"Milano Trento game 2","2 punti segnato","","Diego Flaccadori","made",456,456,1035,448
+"Milano Trento game 2","2 punti segnato","Shavon Shields","Devon Hall","made",475,475,825,168
+"Milano Trento game 2","3 punti segnato","Diego Flaccadori","Shavon Shields","made",513,513,60,336
+"Milano Trento game 2","3 punti segnato","Johannes Voigtmann","Shavon Shields","made",550,550,225,700
+"Milano Trento game 2","3 punti segnato","Shabazz Napier","Diego Flaccadori","made",561,561,375,784
+"Milano Trento game 2","2 punti segnato","","Shabazz Napier","made",597,597,765,252
+"Milano Trento game 2","2 punti sbagliato","","Kyle Hines","missed",16,616,870,224
+"Milano Trento game 2","3 punti segnato","","Devon Hall","made",26,626,1185,756
+"Milano Trento game 2","2 punti segnato","","Shabazz Napier","made",57,657,780,252
+"Milano Trento game 2","2 punti sbagliato","","Shabazz Napier","missed",83,683,930,644
+"Milano Trento game 2","2 punti segnato","","Devon Hall","made",110,710,1020,224
+"Milano Trento game 2","2 punti sbagliato","","Shabazz Napier","missed",128,728,555,392
+"Milano Trento game 2","2 punti segnato","Johannes Voigtmann","Nicolò Melli","made",145,745,630,224
+"Milano Trento game 2","2 punti segnato","Devon Hall","Johannes Voigtmann","made",160,760,825,196
+"Milano Trento game 2","2 punti segnato","","Shavon Shields","made",231,831,900,448
+"Milano Trento game 2","2 punti sbagliato","","Shavon Shields","missed",264,864,390,560
+"Milano Trento game 2","2 punti segnato","","Nicolò Melli","made",264,864,390,560
+"Milano Trento game 2","2 punti sbagliato","","Shavon Shields","missed",294,894,705,392
+"Milano Trento game 2","2 punti segnato","Nikola Mirotic","Shavon Shields","made",353,953,675,196
+"Milano Trento game 2","2 punti sbagliato","","Shavon Shields","missed",382,982,735,252
+"Milano Trento game 2","3 punti segnato","Stefano Tonut","Shavon Shields","made",419,1019,285,728
+"Milano Trento game 2","3 punti segnato","Johannes Voigtmann","Shavon Shields","made",444,1044,45,196
+"Milano Trento game 2","2 punti segnato","Nikola Mirotic","Shavon Shields","made",465,1065,780,196
+"Milano Trento game 2","2 punti segnato","","Shavon Shields","made",516,1116,810,224
+"Milano Trento game 2","3 punti sbagliato","","Nikola Mirotic","missed",555,1155,750,896
+"Milano Trento game 2","2 punti segnato","Shabazz Napier","Nicolò Melli","made",57,1257,750,140
+"Milano Trento game 2","2 punti segnato","","Shavon Shields","made",96,1296,930,504
+"Milano Trento game 2","3 punti segnato","Nikola Mirotic","Shavon Shields","made",166,1366,300,728
+"Milano Trento game 2","2 punti segnato","","Shavon Shields","made",189,1389,705,168
+"Milano Trento game 2","3 punti sbagliato","","Nicolò Melli","missed",215,1415,705,868
+"Milano Trento game 2","2 punti sbagliato","","Diego Flaccadori","missed",328,1528,450,532
+"Milano Trento game 2","2 punti sbagliato","","Diego Flaccadori","missed",342,1542,1050,504
+"Milano Trento game 2","2 punti segnato","","Devon Hall","made",375,1575,480,616
+"Milano Trento game 2","2 punti segnato","Johannes Voigtmann","Kyle Hines","made",392,1592,810,252
+"Milano Trento game 2","2 punti sbagliato","","Devon Hall","missed",402,1602,990,252
+"Milano Trento game 2","2 punti segnato","","Kyle Hines","made",402,1602,990,252
+"Milano Trento game 2","2 punti sbagliato","","Devon Hall","missed",435,1635,630,252
+"Milano Trento game 2","3 punti segnato","Johannes Voigtmann","Stefano Tonut","made",440,1640,315,756
+"Milano Trento game 2","3 punti sbagliato","","Devon Hall","missed",489,1689,345,840
+"Milano Trento game 2","2 punti sbagliato","","Diego Flaccadori","missed",506,1706,630,224
+"Milano Trento game 2","2 punti segnato","Shavon Shields","Kyle Hines","made",544,1744,855,168
+"Milano Trento game 2","3 punti sbagliato","","Shavon Shields","missed",575,1775,795,896
+"Milano Trento game 2","3 punti sbagliato","","Shavon Shields","missed",598,1798,510,896
+"Milano Trento game 2","2 punti sbagliato","","Nicolò Melli","missed",97,1897,540,672
+"Milano Trento game 2","3 punti segnato","Nicolò Melli","Nikola Mirotic","made",125,1925,225,700
+"Milano Trento game 2","3 punti segnato","Shabazz Napier","Nikola Mirotic","made",189,1989,750,924
+"Milano Trento game 2","3 punti segnato","Shabazz Napier","Giampaolo Ricci","made",276,2076,1305,588
+"Milano Trento game 2","2 punti sbagliato","","Shabazz Napier","missed",305,2105,780,420
+"Milano Trento game 2","2 punti sbagliato","","Nikola Mirotic","missed",348,2148,225,504
+"Milano Trento game 2","3 punti sbagliato","","Stefano Tonut","missed",440,2240,120,448
+"Milano Trento game 2","2 punti segnato","","Diego Flaccadori","made",446,2246,975,644
+"Milano Trento game 2","2 punti segnato","Diego Flaccadori","Kyle Hines","made",524,2324,825,140
+"Milano Trento game 3","2 punti sbagliato","","Shabazz Napier","missed",25,25,570,644
+"Milano Trento game 3","2 punti segnato","","Nikola Mirotic","made",71,71,1005,364
+"Milano Trento game 3","3 punti sbagliato","","Stefano Tonut","missed",108,108,1260,728
+"Milano Trento game 3","2 punti sbagliato","","Devon Hall","missed",169,169,870,364
+"Milano Trento game 3","3 punti sbagliato","","Devon Hall","missed",208,208,90,504
+"Milano Trento game 3","2 punti sbagliato","","Nicolò Melli","missed",208,208,90,504
+"Milano Trento game 3","2 punti sbagliato","","Nikola Mirotic","missed",234,234,360,168
+"Milano Trento game 3","3 punti sbagliato","","Shabazz Napier","missed",269,269,720,896
+"Milano Trento game 3","3 punti sbagliato","","Devon Hall","missed",292,292,1365,532
+"Milano Trento game 3","3 punti segnato","Shabazz Napier","Nikola Mirotic","made",308,308,75,364
+"Milano Trento game 3","3 punti sbagliato","","Nikola Mirotic","missed",394,394,1140,812
+"Milano Trento game 3","2 punti sbagliato","","Johannes Voigtmann","missed",434,434,1365,140
+"Milano Trento game 3","2 punti segnato","","Kyle Hines","made",438,438,675,140
+"Milano Trento game 3","2 punti sbagliato","","Devon Hall","missed",468,468,825,308
+"Milano Trento game 3","2 punti segnato","Kyle Hines","Johannes Voigtmann","made",523,523,750,112
+"Milano Trento game 3","2 punti segnato","Johannes Voigtmann","Kyle Hines","made",544,544,885,196
+"Milano Trento game 3","2 punti segnato","","Stefano Tonut","made",583,583,675,140
+"Milano Trento game 3","3 punti sbagliato","","Stefano Tonut","missed",599,599,1305,868
+"Milano Trento game 3","3 punti sbagliato","","Stefano Tonut","missed",34,634,360,812
+"Milano Trento game 3","2 punti sbagliato","","Stefano Tonut","missed",104,704,615,224
+"Milano Trento game 3","2 punti segnato","Diego Flaccadori","Johannes Voigtmann","made",117,717,750,140
+"Milano Trento game 3","3 punti sbagliato","","Johannes Voigtmann","missed",157,757,1380,560
+"Milano Trento game 3","2 punti sbagliato","","Diego Flaccadori","missed",203,803,735,644
+"Milano Trento game 3","2 punti segnato","","Kyle Hines","made",214,814,750,140
+"Milano Trento game 3","2 punti segnato","","Devon Hall","made",237,837,855,560
+"Milano Trento game 3","3 punti segnato","Nicolò Melli","Shabazz Napier","made",268,868,225,728
+"Milano Trento game 3","2 punti sbagliato","","Shabazz Napier","missed",304,904,1020,560
+"Milano Trento game 3","2 punti sbagliato","","Devon Hall","missed",339,939,885,280
+"Milano Trento game 3","2 punti segnato","Devon Hall","Nicolò Melli","made",420,1020,1095,588
+"Milano Trento game 3","2 punti segnato","","Devon Hall","made",452,1052,795,196
+"Milano Trento game 3","3 punti segnato","","Shabazz Napier","made",480,1080,465,812
+"Milano Trento game 3","2 punti segnato","","Shabazz Napier","made",505,1105,840,252
+"Milano Trento game 3","3 punti segnato","","Shabazz Napier","made",545,1145,975,868
+"Milano Trento game 3","2 punti segnato","","Devon Hall","made",578,1178,810,252
+"Milano Trento game 3","2 punti sbagliato","","Devon Hall","missed",21,1221,360,252
+"Milano Trento game 3","3 punti sbagliato","","Nikola Mirotic","missed",82,1282,405,840
+"Milano Trento game 3","2 punti segnato","Shabazz Napier","Nicolò Melli","made",103,1303,795,196
+"Milano Trento game 3","2 punti segnato","Shabazz Napier","Nikola Mirotic","made",128,1328,780,196
+"Milano Trento game 3","3 punti segnato","Devon Hall","Shabazz Napier","made",155,1355,1200,784
+"Milano Trento game 3","2 punti segnato","Shabazz Napier","Nikola Mirotic","made",185,1385,660,140
+"Milano Trento game 3","2 punti segnato","","Shabazz Napier","made",234,1434,915,224
+"Milano Trento game 3","2 punti sbagliato","","Shabazz Napier","missed",265,1465,1065,588
+"Milano Trento game 3","2 punti segnato","Devon Hall","Nikola Mirotic","made",273,1473,825,224
+"Milano Trento game 3","2 punti sbagliato","","Nikola Mirotic","missed",320,1520,1065,392
+"Milano Trento game 3","3 punti segnato","Stefano Tonut","Nicolò Melli","made",391,1591,1245,728
+"Milano Trento game 3","2 punti segnato","","Stefano Tonut","made",443,1643,1095,532
+"Milano Trento game 3","2 punti sbagliato","","Nicolò Melli","missed",512,1712,360,196
+"Milano Trento game 3","2 punti sbagliato","","Stefano Tonut","missed",571,1771,1170,280
+"Milano Trento game 3","3 punti sbagliato","","Shabazz Napier","missed",600,1800,510,924
+"Milano Trento game 3","3 punti segnato","Diego Flaccadori","Johannes Voigtmann","made",45,1845,945,924
+"Milano Trento game 3","2 punti segnato","Shabazz Napier","Kyle Hines","made",69,1869,825,140
+"Milano Trento game 3","3 punti segnato","Shabazz Napier","Johannes Voigtmann","made",97,1897,165,644
+"Milano Trento game 3","3 punti sbagliato","","Devon Hall","missed",187,1987,180,700
+"Milano Trento game 3","3 punti sbagliato","","Nikola Mirotic","missed",233,2033,60,84
+"Milano Trento game 3","2 punti segnato","","Devon Hall","made",283,2083,675,644
+"Milano Trento game 3","3 punti segnato","","Shabazz Napier","made",338,2138,1245,700
+"Milano Trento game 3","2 punti sbagliato","","Devon Hall","missed",371,2171,765,364
+"Milano Trento game 3","3 punti segnato","Diego Flaccadori","Nicolò Melli","made",430,2230,60,140
+"Milano Trento game 3","2 punti segnato","","Diego Flaccadori","made",468,2268,660,420
+"Milano Trento game 3","3 punti sbagliato","","Nicolò Melli","missed",508,2308,105,560
+"Milano Trento game 3","3 punti sbagliato","","Stefano Tonut","missed",538,2338,270,756
+"Milano Trento game 3","2 punti sbagliato","","Stefano Tonut","missed",553,2353,840,168
+"Milano Trento game 3","2 punti segnato","","Diego Flaccadori","made",581,2381,645,196
+"Milano Trento game 4","2 punti segnato","","Nikola Mirotic","made",75,75,1155,280
+"Milano Trento game 4","2 punti segnato","","Stefano Tonut","made",103,103,570,336
+"Milano Trento game 4","2 punti segnato","","Devon Hall","made",161,161,975,224
+"Milano Trento game 4","2 punti segnato","Shabazz Napier","Nicolò Melli","made",194,194,720,140
+"Milano Trento game 4","2 punti sbagliato","","Stefano Tonut","missed",271,271,870,196
+"Milano Trento game 4","3 punti sbagliato","","Nikola Mirotic","missed",299,299,585,896
+"Milano Trento game 4","3 punti sbagliato","","Diego Flaccadori","missed",310,310,180,560
+"Milano Trento game 4","3 punti segnato","","Shabazz Napier","made",337,337,450,840
+"Milano Trento game 4","2 punti segnato","","Shabazz Napier","made",364,364,780,224
+"Milano Trento game 4","3 punti segnato","","Shabazz Napier","made",466,466,990,896
+"Milano Trento game 4","2 punti segnato","","Diego Flaccadori","made",482,482,795,196
+"Milano Trento game 4","3 punti sbagliato","","Shabazz Napier","missed",506,506,195,672
+"Milano Trento game 4","2 punti segnato","","Johannes Voigtmann","made",570,570,945,308
+"Milano Trento game 4","2 punti segnato","","Giampaolo Ricci","made",15,615,690,392
+"Milano Trento game 4","2 punti segnato","","Johannes Voigtmann","made",63,663,825,252
+"Milano Trento game 4","2 punti sbagliato","","Giampaolo Ricci","missed",63,663,825,252
+"Milano Trento game 4","3 punti segnato","Diego Flaccadori","Devon Hall","made",114,714,1170,728
+"Milano Trento game 4","2 punti sbagliato","","Diego Flaccadori","missed",201,801,750,308
+"Milano Trento game 4","2 punti segnato","","Nicolò Melli","made",201,801,795,196
+"Milano Trento game 4","2 punti segnato","Giampaolo Ricci","Johannes Voigtmann","made",223,823,810,252
+"Milano Trento game 4","3 punti sbagliato","","Nicolò Melli","missed",263,863,1305,644
+"Milano Trento game 4","3 punti sbagliato","","Devon Hall","missed",381,981,1050,840
+"Milano Trento game 4","2 punti sbagliato","","Shabazz Napier","missed",396,996,735,588
+"Milano Trento game 4","2 punti segnato","","Shabazz Napier","made",434,1034,690,168
+"Milano Trento game 4","2 punti sbagliato","","Nicolò Melli","missed",478,1078,465,532
+"Milano Trento game 4","2 punti segnato","Diego Flaccadori","Kyle Hines","made",514,1114,855,364
+"Milano Trento game 4","2 punti sbagliato","","Stefano Tonut","missed",540,1140,840,252
+"Milano Trento game 4","3 punti sbagliato","","Shabazz Napier","missed",565,1165,1005,868
+"Milano Trento game 4","3 punti sbagliato","","Diego Flaccadori","missed",599,1199,855,952
+"Milano Trento game 4","3 punti segnato","Stefano Tonut","Nicolò Melli","made",81,1281,75,420
+"Milano Trento game 4","2 punti segnato","","Devon Hall","made",125,1325,660,252
+"Milano Trento game 4","3 punti segnato","Devon Hall","Stefano Tonut","made",167,1367,1230,728
+"Milano Trento game 4","3 punti sbagliato","","Shabazz Napier","missed",220,1420,345,1232
+"Milano Trento game 4","2 punti segnato","","Nikola Mirotic","made",257,1457,375,252
+"Milano Trento game 4","2 punti sbagliato","","Stefano Tonut","missed",282,1482,585,420
+"Milano Trento game 4","2 punti segnato","","Diego Flaccadori","made",308,1508,615,308
+"Milano Trento game 4","3 punti segnato","Devon Hall","Giampaolo Ricci","made",347,1547,210,700
+"Milano Trento game 4","2 punti segnato","Johannes Voigtmann","Kyle Hines","made",367,1567,720,224
+"Milano Trento game 4","2 punti segnato","","Diego Flaccadori","made",406,1606,945,644
+"Milano Trento game 4","2 punti sbagliato","","Kyle Hines","missed",447,1647,705,700
+"Milano Trento game 4","2 punti segnato","Kyle Hines","Giampaolo Ricci","made",458,1658,810,224
+"Milano Trento game 4","2 punti segnato","Diego Flaccadori","Giampaolo Ricci","made",490,1690,690,224
+"Milano Trento game 4","2 punti sbagliato","","Diego Flaccadori","missed",526,1726,825,336
+"Milano Trento game 4","3 punti sbagliato","","Giampaolo Ricci","missed",539,1739,1170,812
+"Milano Trento game 4","2 punti segnato","","Stefano Tonut","made",557,1757,840,224
+"Milano Trento game 4","2 punti segnato","Kyle Hines","Johannes Voigtmann","made",594,1794,795,252
+"Milano Trento game 4","2 punti segnato","","Johannes Voigtmann","made",17,1817,660,252
+"Milano Trento game 4","3 punti segnato","","Nicolò Melli","made",71,1871,600,924
+"Milano Trento game 4","3 punti segnato","Shabazz Napier","Nicolò Melli","made",106,1906,30,224
+"Milano Trento game 4","2 punti segnato","","Stefano Tonut","made",195,1995,450,588
+"Milano Trento game 4","3 punti sbagliato","","Nicolò Melli","missed",246,2046,555,868
+"Milano Trento game 4","2 punti segnato","","Nikola Mirotic","made",298,2098,270,252
+"Milano Trento game 4","3 punti sbagliato","","Stefano Tonut","missed",330,2130,960,896
+"Milano Trento game 4","3 punti sbagliato","","Stefano Tonut","missed",365,2165,1440,308
+"Milano Trento game 4","3 punti sbagliato","","Guglielmo Caruso","missed",379,2179,1110,924
+"Milano Trento game 4","3 punti sbagliato","","Giordano Bortolani","missed",478,2278,1080,840
+"Milano Trento game 4","2 punti sbagliato","","Diego Flaccadori","missed",510,2310,615,252
+"Milano Trento game 4","2 punti segnato","","Guglielmo Caruso","made",541,2341,600,280
+"Milano Trento game 4","2 punti segnato","","Giordano Bortolani","made",560,2360,765,252
+"Milano Brescia game 1","3 punti sbagliato","","Shavon Shields","missed",36,36,465,980
+"Milano Brescia game 1","2 punti sbagliato","","Stefano Tonut","missed",62,62,720,364
+"Milano Brescia game 1","3 punti segnato","Shabazz Napier","Stefano Tonut","made",130,130,1125,812
+"Milano Brescia game 1","2 punti segnato","Shabazz Napier","Shavon Shields","made",155,155,765,168
+"Milano Brescia game 1","2 punti segnato","Shabazz Napier","Stefano Tonut","made",171,171,765,196
+"Milano Brescia game 1","2 punti segnato","Johannes Voigtmann","Stefano Tonut","made",181,181,810,168
+"Milano Brescia game 1","2 punti segnato","Nicolò Melli","Stefano Tonut","made",217,217,660,168
+"Milano Brescia game 1","3 punti segnato","Devon Hall","Johannes Voigtmann","made",280,280,1140,812
+"Milano Brescia game 1","2 punti sbagliato","","Kyle Hines","missed",321,321,645,644
+"Milano Brescia game 1","2 punti sbagliato","","Shabazz Napier","missed",330,330,645,252
+"Milano Brescia game 1","3 punti segnato","Devon Hall","Johannes Voigtmann","made",343,343,975,896
+"Milano Brescia game 1","2 punti sbagliato","","Stefano Tonut","missed",371,371,270,420
+"Milano Brescia game 1","2 punti sbagliato","","Devon Hall","missed",460,460,510,364
+"Milano Brescia game 1","2 punti segnato","","Kyle Hines","made",460,460,510,364
+"Milano Brescia game 1","2 punti segnato","","Johannes Voigtmann","made",523,523,375,308
+"Milano Brescia game 1","3 punti segnato","Kyle Hines","Johannes Voigtmann","made",560,560,1005,896
+"Milano Brescia game 1","2 punti segnato","","Devon Hall","made",591,591,600,168
+"Milano Brescia game 1","2 punti segnato","Devon Hall","Nicolò Melli","made",13,613,750,560
+"Milano Brescia game 1","3 punti sbagliato","","Johannes Voigtmann","missed",54,654,1155,812
+"Milano Brescia game 1","2 punti sbagliato","","Shavon Shields","missed",102,702,750,280
+"Milano Brescia game 1","2 punti sbagliato","","Shavon Shields","missed",102,702,750,280
+"Milano Brescia game 1","3 punti sbagliato","","Diego Flaccadori","missed",128,728,1365,644
+"Milano Brescia game 1","3 punti sbagliato","","Nikola Mirotic","missed",134,734,60,364
+"Milano Brescia game 1","2 punti segnato","Stefano Tonut","Nicolò Melli","made",162,762,840,672
+"Milano Brescia game 1","2 punti sbagliato","","Nicolò Melli","missed",196,796,390,644
+"Milano Brescia game 1","2 punti segnato","","Nikola Mirotic","made",196,796,390,644
+"Milano Brescia game 1","2 punti sbagliato","","Nikola Mirotic","missed",239,839,645,336
+"Milano Brescia game 1","3 punti sbagliato","","Stefano Tonut","missed",270,870,1440,140
+"Milano Brescia game 1","3 punti segnato","","Shabazz Napier","made",345,945,210,672
+"Milano Brescia game 1","3 punti segnato","Devon Hall","Johannes Voigtmann","made",431,1031,1305,700
+"Milano Brescia game 1","2 punti segnato","Johannes Voigtmann","Stefano Tonut","made",449,1049,765,252
+"Milano Brescia game 1","3 punti sbagliato","","Devon Hall","missed",511,1111,315,840
+"Milano Brescia game 1","3 punti segnato","Devon Hall","Johannes Voigtmann","made",535,1135,150,672
+"Milano Brescia game 1","2 punti segnato","Stefano Tonut","Johannes Voigtmann","made",560,1160,1305,420
+"Milano Brescia game 1","3 punti sbagliato","","Shabazz Napier","missed",593,1193,450,896
+"Milano Brescia game 1","2 punti sbagliato","","Johannes Voigtmann","missed",40,1240,390,224
+"Milano Brescia game 1","3 punti sbagliato","","Johannes Voigtmann","missed",82,1282,30,168
+"Milano Brescia game 1","2 punti sbagliato","","Stefano Tonut","missed",113,1313,900,252
+"Milano Brescia game 1","2 punti sbagliato","","Shabazz Napier","missed",127,1327,840,728
+"Milano Brescia game 1","2 punti segnato","Stefano Tonut","Kyle Hines","made",166,1366,840,252
+"Milano Brescia game 1","2 punti segnato","Shabazz Napier","Kyle Hines","made",220,1420,855,252
+"Milano Brescia game 1","2 punti sbagliato","","Stefano Tonut","missed",255,1455,675,280
+"Milano Brescia game 1","2 punti segnato","","Kyle Hines","made",255,1455,675,280
+"Milano Brescia game 1","3 punti sbagliato","","Shavon Shields","missed",301,1501,390,840
+"Milano Brescia game 1","3 punti segnato","Devon Hall","Diego Flaccadori","made",345,1545,45,112
+"Milano Brescia game 1","3 punti sbagliato","","Stefano Tonut","missed",422,1622,1425,392
+"Milano Brescia game 1","3 punti sbagliato","","Giampaolo Ricci","missed",478,1678,1305,672
+"Milano Brescia game 1","2 punti segnato","","Giampaolo Ricci","made",545,1745,885,224
+"Milano Brescia game 1","3 punti sbagliato","","Giampaolo Ricci","missed",580,1780,1050,924
+"Milano Brescia game 1","2 punti segnato","Nicolò Melli","Johannes Voigtmann","made",16,1816,780,280
+"Milano Brescia game 1","3 punti segnato","Diego Flaccadori","Nicolò Melli","made",62,1862,1275,812
+"Milano Brescia game 1","2 punti segnato","Johannes Voigtmann","Nicolò Melli","made",119,1919,765,196
+"Milano Brescia game 1","2 punti sbagliato","","Diego Flaccadori","missed",216,2016,300,196
+"Milano Brescia game 1","3 punti sbagliato","","Diego Flaccadori","missed",242,2042,285,728
+"Milano Brescia game 1","2 punti sbagliato","","Nicolò Melli","missed",254,2054,600,700
+"Milano Brescia game 1","2 punti sbagliato","","Johannes Voigtmann","missed",254,2054,600,700
+"Milano Brescia game 1","3 punti segnato","Stefano Tonut","Diego Flaccadori","made",273,2073,105,532
+"Milano Brescia game 1","3 punti sbagliato","","Johannes Voigtmann","missed",307,2107,825,924
+"Milano Brescia game 1","2 punti sbagliato","","Nicolò Melli","missed",323,2123,885,756
+"Milano Brescia game 1","3 punti sbagliato","","Stefano Tonut","missed",369,2169,1380,504
+"Milano Brescia game 1","3 punti sbagliato","","Nikola Mirotic","missed",411,2211,1455,112
+"Milano Brescia game 1","3 punti sbagliato","","Shabazz Napier","missed",474,2274,690,924
+"Milano Brescia game 1","3 punti sbagliato","","Devon Hall","missed",512,2312,1320,756
+"Milano Brescia game 1","2 punti sbagliato","","Diego Flaccadori","missed",529,2329,435,224
+"Milano Brescia game 1","2 punti segnato","","Nicolò Melli","made",529,2329,435,224
+"Milano Brescia game 1","2 punti segnato","Shabazz Napier","Nicolò Melli","made",566,2366,195,336
+"Milano Brescia game 2","2 punti sbagliato","","Nikola Mirotic","missed",36,36,780,252
+"Milano Brescia game 2","2 punti segnato","","Shavon Shields","made",94,94,810,392
+"Milano Brescia game 2","3 punti segnato","Nicolò Melli","Nikola Mirotic","made",113,113,45,168
+"Milano Brescia game 2","3 punti sbagliato","","Shabazz Napier","missed",154,154,1065,924
+"Milano Brescia game 2","3 punti segnato","Shabazz Napier","Shavon Shields","made",183,183,1260,728
+"Milano Brescia game 2","3 punti sbagliato","","Stefano Tonut","missed",227,227,225,756
+"Milano Brescia game 2","3 punti segnato","","Stefano Tonut","made",242,242,300,784
+"Milano Brescia game 2","3 punti sbagliato","","Nikola Mirotic","missed",275,275,675,980
+"Milano Brescia game 2","3 punti segnato","Johannes Voigtmann","Devon Hall","made",346,346,390,896
+"Milano Brescia game 2","3 punti segnato","Diego Flaccadori","Devon Hall","made",378,378,285,840
+"Milano Brescia game 2","3 punti sbagliato","","Stefano Tonut","missed",422,422,735,1008
+"Milano Brescia game 2","3 punti sbagliato","","Diego Flaccadori","missed",454,454,855,952
+"Milano Brescia game 2","3 punti sbagliato","","Devon Hall","missed",512,512,1455,196
+"Milano Brescia game 2","2 punti sbagliato","","Diego Flaccadori","missed",530,530,465,504
+"Milano Brescia game 2","3 punti sbagliato","","Shavon Shields","missed",547,547,465,980
+"Milano Brescia game 2","3 punti sbagliato","","Diego Flaccadori","missed",596,596,45,252
+"Milano Brescia game 2","3 punti sbagliato","","Johannes Voigtmann","missed",18,618,90,476
+"Milano Brescia game 2","2 punti segnato","Devon Hall","Johannes Voigtmann","made",23,623,780,252
+"Milano Brescia game 2","3 punti sbagliato","","Nikola Mirotic","missed",69,669,285,840
+"Milano Brescia game 2","2 punti sbagliato","","Nikola Mirotic","missed",95,695,600,336
+"Milano Brescia game 2","3 punti sbagliato","","Devon Hall","missed",130,730,210,812
+"Milano Brescia game 2","2 punti sbagliato","","Stefano Tonut","missed",168,768,855,336
+"Milano Brescia game 2","2 punti sbagliato","","Shabazz Napier","missed",196,796,660,392
+"Milano Brescia game 2","2 punti sbagliato","","Nicolò Melli","missed",225,825,630,336
+"Milano Brescia game 2","2 punti segnato","","Nikola Mirotic","made",225,825,630,336
+"Milano Brescia game 2","3 punti segnato","","Shabazz Napier","made",272,872,555,952
+"Milano Brescia game 2","3 punti sbagliato","","Nikola Mirotic","missed",308,908,30,224
+"Milano Brescia game 2","2 punti sbagliato","","Nicolò Melli","missed",370,970,570,532
+"Milano Brescia game 2","2 punti segnato","Shabazz Napier","Nicolò Melli","made",397,997,735,140
+"Milano Brescia game 2","3 punti sbagliato","","Devon Hall","missed",459,1059,1320,616
+"Milano Brescia game 2","2 punti sbagliato","","Devon Hall","missed",494,1094,960,280
+"Milano Brescia game 2","2 punti sbagliato","","Devon Hall","missed",520,1120,645,224
+"Milano Brescia game 2","2 punti sbagliato","","Kyle Hines","missed",520,1120,645,224
+"Milano Brescia game 2","2 punti segnato","","Shavon Shields","made",595,1195,840,224
+"Milano Brescia game 2","2 punti sbagliato","","Nikola Mirotic","missed",45,1245,1050,196
+"Milano Brescia game 2","2 punti segnato","","Shabazz Napier","made",81,1281,705,224
+"Milano Brescia game 2","3 punti segnato","Shavon Shields","Nikola Mirotic","made",110,1310,1200,868
+"Milano Brescia game 2","3 punti sbagliato","","Shavon Shields","missed",137,1337,1290,784
+"Milano Brescia game 2","3 punti sbagliato","","Shabazz Napier","missed",192,1392,1335,616
+"Milano Brescia game 2","3 punti segnato","Stefano Tonut","Nikola Mirotic","made",207,1407,1425,392
+"Milano Brescia game 2","2 punti segnato","Shabazz Napier","Nikola Mirotic","made",237,1437,750,140
+"Milano Brescia game 2","2 punti sbagliato","","Nikola Mirotic","missed",284,1484,315,196
+"Milano Brescia game 2","2 punti segnato","Shavon Shields","Nikola Mirotic","made",331,1531,825,168
+"Milano Brescia game 2","2 punti segnato","","Shavon Shields","made",348,1548,810,196
+"Milano Brescia game 2","2 punti sbagliato","","Stefano Tonut","missed",374,1574,870,224
+"Milano Brescia game 2","2 punti segnato","","Devon Hall","made",395,1595,900,448
+"Milano Brescia game 2","3 punti segnato","Johannes Voigtmann","Devon Hall","made",438,1638,1455,308
+"Milano Brescia game 2","3 punti segnato","Stefano Tonut","Johannes Voigtmann","made",480,1680,60,196
+"Milano Brescia game 2","2 punti sbagliato","","Kyle Hines","missed",546,1746,375,196
+"Milano Brescia game 2","2 punti sbagliato","","Diego Flaccadori","missed",563,1763,795,252
+"Milano Brescia game 2","2 punti sbagliato","","Kyle Hines","missed",563,1763,795,252
+"Milano Brescia game 2","2 punti sbagliato","","Johannes Voigtmann","missed",563,1763,795,252
+"Milano Brescia game 2","2 punti segnato","","Johannes Voigtmann","made",563,1763,795,252
+"Milano Brescia game 2","3 punti segnato","Kyle Hines","Johannes Voigtmann","made",45,1845,1200,952
+"Milano Brescia game 2","3 punti sbagliato","","Johannes Voigtmann","missed",82,1882,105,504
+"Milano Brescia game 2","3 punti segnato","Diego Flaccadori","Shavon Shields","made",89,1889,1035,952
+"Milano Brescia game 2","3 punti sbagliato","","Nikola Mirotic","missed",178,1978,60,168
+"Milano Brescia game 2","3 punti sbagliato","","Nicolò Melli","missed",202,2002,300,784
+"Milano Brescia game 2","2 punti segnato","Devon Hall","Shavon Shields","made",223,2023,675,196
+"Milano Brescia game 2","2 punti sbagliato","","Nikola Mirotic","missed",265,2065,1200,336
+"Milano Brescia game 2","3 punti sbagliato","","Shavon Shields","missed",296,2096,1290,784
+"Milano Brescia game 2","3 punti segnato","Devon Hall","Nikola Mirotic","made",312,2112,60,112
+"Milano Brescia game 2","3 punti segnato","Devon Hall","Nicolò Melli","made",369,2169,1410,504
+"Milano Brescia game 2","2 punti segnato","Nicolò Melli","Nikola Mirotic","made",424,2224,825,252
+"Milano Brescia game 3","2 punti segnato","Stefano Tonut","Nicolò Melli","made",35,35,615,644
+"Milano Brescia game 3","2 punti segnato","","Stefano Tonut","made",54,54,735,168
+"Milano Brescia game 3","3 punti sbagliato","","Nikola Mirotic","missed",67,67,615,896
+"Milano Brescia game 3","3 punti segnato","","Shabazz Napier","made",69,69,765,868
+"Milano Brescia game 3","3 punti sbagliato","","Nikola Mirotic","missed",103,103,1335,672
+"Milano Brescia game 3","3 punti sbagliato","","Stefano Tonut","missed",151,151,1185,784
+"Milano Brescia game 3","3 punti segnato","Shabazz Napier","Nicolò Melli","made",161,161,1110,840
+"Milano Brescia game 3","2 punti sbagliato","","Nicolò Melli","missed",206,206,225,112
+"Milano Brescia game 3","3 punti segnato","","Shabazz Napier","made",273,273,945,840
+"Milano Brescia game 3","3 punti segnato","Nikola Mirotic","Shavon Shields","made",300,300,375,784
+"Milano Brescia game 3","3 punti sbagliato","","Devon Hall","missed",333,333,1125,812
+"Milano Brescia game 3","3 punti sbagliato","","Shavon Shields","missed",338,338,495,840
+"Milano Brescia game 3","3 punti segnato","Diego Flaccadori","Devon Hall","made",361,361,1275,700
+"Milano Brescia game 3","2 punti sbagliato","","Shavon Shields","missed",397,397,645,672
+"Milano Brescia game 3","2 punti segnato","","Devon Hall","made",421,421,810,140
+"Milano Brescia game 3","3 punti sbagliato","","Johannes Voigtmann","missed",462,462,1125,840
+"Milano Brescia game 3","2 punti segnato","","Johannes Voigtmann","made",489,489,705,140
+"Milano Brescia game 3","3 punti segnato","Diego Flaccadori","Giampaolo Ricci","made",556,556,270,728
+"Milano Brescia game 3","3 punti segnato","Diego Flaccadori","Giampaolo Ricci","made",586,586,45,196
+"Milano Brescia game 3","3 punti sbagliato","","Devon Hall","missed",32,632,1185,756
+"Milano Brescia game 3","3 punti segnato","Johannes Voigtmann","Shabazz Napier","made",70,670,735,896
+"Milano Brescia game 3","2 punti sbagliato","","Shabazz Napier","missed",139,739,855,140
+"Milano Brescia game 3","2 punti segnato","","Giampaolo Ricci","made",149,749,900,252
+"Milano Brescia game 3","3 punti segnato","","Shabazz Napier","made",169,769,1245,728
+"Milano Brescia game 3","2 punti sbagliato","","Stefano Tonut","missed",197,797,705,224
+"Milano Brescia game 3","2 punti sbagliato","","Nikola Mirotic","missed",223,823,1275,168
+"Milano Brescia game 3","3 punti segnato","Nicolò Melli","Nikola Mirotic","made",253,853,840,868
+"Milano Brescia game 3","3 punti segnato","Nicolò Melli","Stefano Tonut","made",317,917,465,812
+"Milano Brescia game 3","2 punti sbagliato","","Shavon Shields","missed",341,941,795,168
+"Milano Brescia game 3","3 punti segnato","Shabazz Napier","Shavon Shields","made",391,991,1125,812
+"Milano Brescia game 3","2 punti sbagliato","","Stefano Tonut","missed",425,1025,855,224
+"Milano Brescia game 3","2 punti sbagliato","","Shavon Shields","missed",427,1027,1170,252
+"Milano Brescia game 3","3 punti segnato","Kyle Hines","Giampaolo Ricci","made",492,1092,255,672
+"Milano Brescia game 3","3 punti segnato","Shabazz Napier","Shavon Shields","made",500,1100,270,700
+"Milano Brescia game 3","3 punti sbagliato","","Shavon Shields","missed",578,1178,555,896
+"Milano Brescia game 3","3 punti sbagliato","","Johannes Voigtmann","missed",600,1200,645,1204
+"Milano Brescia game 3","3 punti sbagliato","","Nikola Mirotic","missed",12,1212,615,896
+"Milano Brescia game 3","2 punti sbagliato","","Nicolò Melli","missed",61,1261,405,588
+"Milano Brescia game 3","3 punti sbagliato","","Shabazz Napier","missed",98,1298,375,812
+"Milano Brescia game 3","2 punti segnato","Nicolò Melli","Giampaolo Ricci","made",150,1350,675,224
+"Milano Brescia game 3","2 punti sbagliato","","Nicolò Melli","missed",173,1373,765,196
+"Milano Brescia game 3","2 punti segnato","","Nikola Mirotic","made",173,1373,765,196
+"Milano Brescia game 3","3 punti segnato","Devon Hall","Nikola Mirotic","made",245,1445,180,644
+"Milano Brescia game 3","3 punti sbagliato","","Devon Hall","missed",285,1485,105,476
+"Milano Brescia game 3","2 punti segnato","","Nikola Mirotic","made",333,1533,1095,280
+"Milano Brescia game 3","2 punti segnato","","Kyle Hines","made",373,1573,750,168
+"Milano Brescia game 3","3 punti segnato","Shavon Shields","Giampaolo Ricci","made",414,1614,1440,224
+"Milano Brescia game 3","3 punti sbagliato","","Giampaolo Ricci","missed",503,1703,1050,868
+"Milano Brescia game 3","2 punti segnato","","Shavon Shields","made",523,1723,765,308
+"Milano Brescia game 3","3 punti sbagliato","","Diego Flaccadori","missed",572,1772,1125,812
+"Milano Brescia game 3","2 punti segnato","","Johannes Voigtmann","made",572,1772,705,224
+"Milano Brescia game 3","3 punti segnato","Johannes Voigtmann","Kyle Hines","made",600,1800,420,868
+"Milano Brescia game 3","2 punti segnato","","Diego Flaccadori","made",32,1832,735,224
+"Milano Brescia game 3","2 punti sbagliato","","Johannes Voigtmann","missed",109,1909,435,504
+"Milano Brescia game 3","3 punti segnato","","Devon Hall","made",115,1915,360,868
+"Milano Brescia game 3","2 punti segnato","","Diego Flaccadori","made",145,1945,660,196
+"Milano Brescia game 3","2 punti segnato","Johannes Voigtmann","Devon Hall","made",200,2000,720,168
+"Milano Brescia game 3","3 punti sbagliato","","Nicolò Melli","missed",249,2049,255,756
+"Milano Brescia game 3","3 punti sbagliato","","Shabazz Napier","missed",345,2145,945,868
+"Milano Brescia game 3","2 punti segnato","","Nicolò Melli","made",355,2155,600,280
+"Milano Brescia game 3","2 punti sbagliato","","Shavon Shields","missed",385,2185,615,616
+"Milano Brescia game 3","2 punti segnato","","Devon Hall","made",418,2218,795,252
+"Milano Brescia game 3","3 punti sbagliato","","Diego Flaccadori","missed",446,2246,465,840
+"Milano Brescia game 3","2 punti sbagliato","","Stefano Tonut","missed",476,2276,570,476
+"Milano Brescia game 3","2 punti segnato","","Devon Hall","made",511,2311,1005,700
+"Milano Brescia game 3","3 punti sbagliato","","Giampaolo Ricci","missed",551,2351,1095,812
+"24451","2 punti segnato","","Stefano Tonut","made",55,55,660,224
+"24451","2 punti sbagliato","","Nicolò Melli","missed",100,100,525,728
+"24451","2 punti sbagliato","","Nicolò Melli","missed",159,159,870,196
+"24451","2 punti segnato","","Nicolò Melli","made",159,159,870,196
+"24451","3 punti sbagliato","","Devon Hall","missed",194,194,1335,616
+"24451","2 punti sbagliato","","Stefano Tonut","missed",227,227,825,168
+"24451","2 punti sbagliato","","Johannes Voigtmann","missed",281,281,1185,252
+"24451","2 punti sbagliato","","Shavon Shields","missed",303,303,840,224
+"24451","2 punti segnato","","Nicolò Melli","made",303,303,840,224
+"24451","3 punti sbagliato","","Stefano Tonut","missed",352,352,135,672
+"24451","2 punti segnato","","Shabazz Napier","made",383,383,870,252
+"24451","2 punti sbagliato","","Shavon Shields","missed",440,440,585,476
+"24451","3 punti segnato","","Shabazz Napier","made",468,468,1200,784
+"24451","3 punti sbagliato","","Shabazz Napier","missed",508,508,180,672
+"24451","3 punti sbagliato","","Shavon Shields","missed",519,519,225,784
+"24451","3 punti sbagliato","","Diego Flaccadori","missed",572,572,30,140
+"24451","3 punti sbagliato","","Devon Hall","missed",600,600,735,1344
+"24451","3 punti sbagliato","","Giampaolo Ricci","missed",70,670,900,924
+"24451","2 punti sbagliato","","Devon Hall","missed",99,699,675,280
+"24451","2 punti sbagliato","","Stefano Tonut","missed",150,750,1140,644
+"24451","2 punti segnato","","Shabazz Napier","made",223,823,825,196
+"24451","2 punti sbagliato","","Nikola Mirotic","missed",281,881,630,252
+"24451","2 punti sbagliato","","Nicolò Melli","missed",363,963,660,672
+"24451","2 punti segnato","Shavon Shields","Nicolò Melli","made",395,995,660,224
+"24451","2 punti sbagliato","","Nicolò Melli","missed",474,1074,675,560
+"24451","2 punti sbagliato","","Kyle Hines","missed",510,1110,795,196
+"24451","2 punti sbagliato","","Johannes Voigtmann","missed",530,1130,840,224
+"24451","2 punti segnato","","Kyle Hines","made",530,1130,840,224
+"24451","3 punti sbagliato","","Shabazz Napier","missed",580,1180,645,952
+"24451","3 punti segnato","","Shabazz Napier","made",14,1214,450,868
+"24451","2 punti sbagliato","","Nicolò Melli","missed",104,1304,975,616
+"24451","2 punti sbagliato","","Nicolò Melli","missed",190,1390,690,560
+"24451","2 punti sbagliato","","Devon Hall","missed",196,1396,660,168
+"24451","2 punti sbagliato","","Nikola Mirotic","missed",213,1413,705,140
+"24451","2 punti segnato","","Shabazz Napier","made",244,1444,690,140
+"24451","2 punti segnato","Shavon Shields","Devon Hall","made",282,1482,780,196
+"24451","3 punti segnato","Devon Hall","Shavon Shields","made",319,1519,1275,700
+"24451","3 punti sbagliato","","Nicolò Melli","missed",356,1556,1095,868
+"24451","2 punti sbagliato","","Nikola Mirotic","missed",356,1556,1095,868
+"24451","2 punti segnato","","Nikola Mirotic","made",356,1556,1095,868
+"24451","2 punti segnato","","Shavon Shields","made",381,1581,780,252
+"24451","3 punti sbagliato","","Stefano Tonut","missed",420,1620,1125,812
+"24451","3 punti segnato","","Shavon Shields","made",452,1652,1035,924
+"24451","2 punti sbagliato","","Shavon Shields","missed",504,1704,885,196
+"24451","3 punti segnato","Johannes Voigtmann","Devon Hall","made",509,1709,75,476
+"24451","2 punti segnato","Shavon Shields","Kyle Hines","made",552,1752,825,224
+"24451","3 punti segnato","","Shavon Shields","made",595,1795,990,924
+"24451","3 punti sbagliato","","Johannes Voigtmann","missed",63,1863,1305,728
+"24451","3 punti segnato","","Shabazz Napier","made",99,1899,615,924
+"24451","3 punti segnato","Nicolò Melli","Devon Hall","made",143,1943,1260,784
+"24451","2 punti sbagliato","","Stefano Tonut","missed",177,1977,1275,168
+"24451","2 punti sbagliato","","Nikola Mirotic","missed",227,2027,345,196
+"24451","3 punti sbagliato","","Shabazz Napier","missed",246,2046,555,896
+"24451","2 punti sbagliato","","Nicolò Melli","missed",332,2132,810,588
+"24451","2 punti segnato","","Shavon Shields","made",403,2203,825,196
+"24451","2 punti sbagliato","","Shabazz Napier","missed",475,2275,675,196
+"24451","2 punti sbagliato","","Shavon Shields","missed",509,2309,825,616
+"24451","3 punti sbagliato","","Nikola Mirotic","missed",537,2337,270,728
+"24451","3 punti segnato","","Shabazz Napier","made",567,2367,540,868
+"24451","2 punti sbagliato","","Shabazz Napier","missed",597,2397,795,224
+"24451","2 punti segnato","","Nicolò Melli","made",313,2413,1155,252
+"24451","3 punti segnato","","Shavon Shields","made",348,2448,1230,784
+"24451","2 punti sbagliato","","Shabazz Napier","missed",387,2487,1065,532
+"24451","3 punti segnato","","Shavon Shields","made",427,2527,405,812
+"24451","3 punti segnato","","Shavon Shields","made",457,2557,225,672
+"24451","3 punti sbagliato","","Devon Hall","missed",499,2599,600,924
+"24451","2 punti segnato","","Devon Hall","made",544,2644,765,224
+"24451","3 punti segnato","","Devon Hall","made",577,2677,300,812
+"24452","3 punti sbagliato","","Nikola Mirotic","missed",44,44,705,952
+"24452","3 punti sbagliato","","Shabazz Napier","missed",76,76,1155,812
+"24452","2 punti sbagliato","","Shabazz Napier","missed",82,82,810,196
+"24452","2 punti sbagliato","","Nicolò Melli","missed",92,92,750,140
+"24452","3 punti segnato","","Nikola Mirotic","made",111,111,1350,616
+"24452","3 punti sbagliato","","Nikola Mirotic","missed",149,149,1455,168
+"24452","3 punti segnato","","Stefano Tonut","made",275,275,435,868
+"24452","3 punti segnato","Shabazz Napier","Nicolò Melli","made",315,315,150,756
+"24452","2 punti segnato","","Stefano Tonut","made",380,380,675,196
+"24452","2 punti sbagliato","","Shavon Shields","missed",411,411,735,364
+"24452","2 punti sbagliato","","Stefano Tonut","missed",424,424,945,336
+"24452","2 punti sbagliato","","Shavon Shields","missed",450,450,810,196
+"24452","2 punti segnato","Shavon Shields","Kyle Hines","made",558,558,690,224
+"24452","3 punti sbagliato","","Devon Hall","missed",588,588,1305,840
+"24452","3 punti sbagliato","","Shavon Shields","missed",597,597,210,756
+"24452","3 punti segnato","Johannes Voigtmann","Devon Hall","made",38,638,435,896
+"24452","2 punti sbagliato","","Shabazz Napier","missed",110,710,555,532
+"24452","2 punti sbagliato","","Shabazz Napier","missed",148,748,735,504
+"24452","2 punti segnato","","Devon Hall","made",174,774,540,532
+"24452","2 punti segnato","Shabazz Napier","Nicolò Melli","made",221,821,765,308
+"24452","2 punti segnato","","Stefano Tonut","made",284,884,1035,644
+"24452","2 punti segnato","","Shabazz Napier","made",328,928,915,672
+"24452","3 punti sbagliato","","Stefano Tonut","missed",365,965,1455,280
+"24452","2 punti sbagliato","","Kyle Hines","missed",389,989,735,140
+"24452","3 punti sbagliato","","Shavon Shields","missed",435,1035,45,336
+"24452","3 punti sbagliato","","Nikola Mirotic","missed",467,1067,150,616
+"24452","2 punti sbagliato","","Stefano Tonut","missed",513,1113,270,476
+"24452","2 punti segnato","","Shavon Shields","made",545,1145,615,308
+"24452","2 punti sbagliato","","Stefano Tonut","missed",589,1189,1275,392
+"24452","3 punti sbagliato","","Shavon Shields","missed",600,1200,1350,1092
+"24452","3 punti sbagliato","","Devon Hall","missed",48,1248,1305,700
+"24452","2 punti sbagliato","","Nikola Mirotic","missed",92,1292,645,224
+"24452","3 punti segnato","","Shabazz Napier","made",100,1300,240,700
+"24452","3 punti sbagliato","","Shabazz Napier","missed",138,1338,705,980
+"24452","3 punti segnato","Stefano Tonut","Devon Hall","made",165,1365,1215,784
+"24452","2 punti sbagliato","","Shavon Shields","missed",202,1402,705,280
+"24452","2 punti segnato","","Devon Hall","made",217,1417,825,168
+"24452","2 punti segnato","Diego Flaccadori","Nicolò Melli","made",264,1464,795,252
+"24452","2 punti segnato","","Nikola Mirotic","made",292,1492,780,224
+"24452","2 punti sbagliato","","Diego Flaccadori","missed",347,1547,945,532
+"24452","2 punti sbagliato","","Nikola Mirotic","missed",347,1547,945,532
+"24452","2 punti sbagliato","","Nicolò Melli","missed",383,1583,825,672
+"24452","3 punti sbagliato","","Diego Flaccadori","missed",399,1599,1395,616
+"24452","2 punti sbagliato","","Nikola Mirotic","missed",405,1605,585,196
+"24452","3 punti segnato","Devon Hall","Nikola Mirotic","made",436,1636,390,840
+"24452","2 punti segnato","","Diego Flaccadori","made",462,1662,765,224
+"24452","3 punti sbagliato","","Diego Flaccadori","missed",497,1697,645,924
+"24452","2 punti segnato","","Johannes Voigtmann","made",547,1747,735,308
+"24452","2 punti sbagliato","","Diego Flaccadori","missed",586,1786,420,532
+"24452","2 punti segnato","","Shabazz Napier","made",25,1825,1020,560
+"24452","2 punti segnato","","Stefano Tonut","made",51,1851,705,224
+"24452","2 punti segnato","","Shavon Shields","made",66,1866,765,140
+"24452","3 punti sbagliato","","Stefano Tonut","missed",185,1985,780,924
+"24452","2 punti sbagliato","","Nicolò Melli","missed",207,2007,225,196
+"24452","3 punti sbagliato","","Nikola Mirotic","missed",290,2090,1395,588
+"24452","3 punti sbagliato","","Nikola Mirotic","missed",328,2128,45,112
+"24452","2 punti segnato","","Devon Hall","made",328,2128,45,112
+"24452","3 punti sbagliato","","Shabazz Napier","missed",371,2171,45,252
+"24452","3 punti sbagliato","","Nicolò Melli","missed",408,2208,1470,84
+"24452","3 punti segnato","Devon Hall","Nikola Mirotic","made",441,2241,45,140
+"24452","3 punti sbagliato","","Nikola Mirotic","missed",474,2274,1365,784
+"24452","3 punti sbagliato","","Shabazz Napier","missed",565,2365,465,868
+"24453","2 punti sbagliato","","Shavon Shields","missed",8,8,795,196
+"24453","2 punti segnato","","Shavon Shields","made",8,8,795,196
+"24453","2 punti segnato","Nicolò Melli","Nikola Mirotic","made",53,53,690,308
+"24453","3 punti sbagliato","","Stefano Tonut","missed",90,90,270,728
+"24453","2 punti segnato","Nicolò Melli","Shavon Shields","made",118,118,810,280
+"24453","3 punti sbagliato","","Nikola Mirotic","missed",146,146,150,672
+"24453","3 punti sbagliato","","Nicolò Melli","missed",212,212,1200,756
+"24453","2 punti segnato","","Nikola Mirotic","made",243,243,735,364
+"24453","2 punti sbagliato","","Nicolò Melli","missed",286,286,795,252
+"24453","2 punti segnato","Shabazz Napier","Nicolò Melli","made",312,312,735,196
+"24453","2 punti sbagliato","","Shavon Shields","missed",344,344,870,672
+"24453","2 punti sbagliato","","Shavon Shields","missed",355,355,585,336
+"24453","2 punti segnato","Shabazz Napier","Kyle Hines","made",368,368,720,224
+"24453","2 punti segnato","Kyle Hines","Nikola Mirotic","made",425,425,765,196
+"24453","2 punti sbagliato","","Nikola Mirotic","missed",457,457,1245,280
+"24453","2 punti segnato","","Shavon Shields","made",488,488,780,196
+"24453","2 punti sbagliato","","Shavon Shields","missed",511,511,675,336
+"24453","3 punti sbagliato","","Johannes Voigtmann","missed",521,521,1380,616
+"24453","3 punti sbagliato","","Diego Flaccadori","missed",527,527,465,896
+"24453","2 punti segnato","","Johannes Voigtmann","made",527,527,465,896
+"24453","3 punti segnato","Johannes Voigtmann","Diego Flaccadori","made",567,567,15,224
+"24453","3 punti segnato","","Devon Hall","made",599,599,225,700
+"24453","2 punti segnato","","Devon Hall","made",63,663,660,336
+"24453","2 punti segnato","","Nicolò Melli","made",112,712,780,224
+"24453","3 punti sbagliato","","Giampaolo Ricci","missed",165,765,1170,812
+"24453","2 punti segnato","Nicolò Melli","Diego Flaccadori","made",172,772,465,588
+"24453","2 punti segnato","","Diego Flaccadori","made",226,826,630,196
+"24453","3 punti sbagliato","","Giampaolo Ricci","missed",256,856,1440,196
+"24453","2 punti sbagliato","","Shabazz Napier","missed",296,896,315,252
+"24453","3 punti segnato","","Shabazz Napier","made",326,926,420,868
+"24453","3 punti sbagliato","","Stefano Tonut","missed",367,967,1230,756
+"24453","3 punti sbagliato","","Shavon Shields","missed",395,995,195,812
+"24453","3 punti sbagliato","","Shabazz Napier","missed",424,1024,555,896
+"24453","2 punti segnato","Shabazz Napier","Nikola Mirotic","made",499,1099,765,224
+"24453","2 punti sbagliato","","Diego Flaccadori","missed",546,1146,735,392
+"24453","2 punti segnato","","Diego Flaccadori","made",585,1185,345,560
+"24453","3 punti sbagliato","","Shavon Shields","missed",27,1227,570,952
+"24453","3 punti segnato","Shabazz Napier","Stefano Tonut","made",111,1311,45,280
+"24453","2 punti sbagliato","","Nikola Mirotic","missed",141,1341,870,364
+"24453","2 punti segnato","Stefano Tonut","Nikola Mirotic","made",176,1376,885,196
+"24453","2 punti sbagliato","","Stefano Tonut","missed",210,1410,900,196
+"24453","3 punti segnato","Shabazz Napier","Nikola Mirotic","made",227,1427,45,84
+"24453","3 punti sbagliato","","Shavon Shields","missed",270,1470,1305,700
+"24453","3 punti sbagliato","","Shabazz Napier","missed",301,1501,1125,812
+"24453","3 punti segnato","Diego Flaccadori","Johannes Voigtmann","made",337,1537,855,980
+"24453","2 punti sbagliato","","Johannes Voigtmann","missed",397,1597,345,308
+"24453","3 punti sbagliato","","Shavon Shields","missed",432,1632,975,896
+"24453","2 punti segnato","Devon Hall","Diego Flaccadori","made",491,1691,750,196
+"24453","2 punti sbagliato","","Shavon Shields","missed",549,1749,705,280
+"24453","3 punti sbagliato","","Shavon Shields","missed",568,1768,1290,728
+"24453","2 punti sbagliato","","Johannes Voigtmann","missed",568,1768,1290,728
+"24453","3 punti sbagliato","","Shavon Shields","missed",599,1799,810,1204
+"24453","2 punti sbagliato","","Diego Flaccadori","missed",23,1823,525,616
+"24453","2 punti sbagliato","","Nicolò Melli","missed",54,1854,765,224
+"24453","2 punti segnato","","Shabazz Napier","made",84,1884,795,252
+"24453","2 punti segnato","","Shabazz Napier","made",115,1915,660,224
+"24453","2 punti segnato","Shabazz Napier","Nikola Mirotic","made",152,1952,720,196
+"24453","3 punti sbagliato","","Nikola Mirotic","missed",177,1977,1350,588
+"24453","2 punti segnato","","Shabazz Napier","made",209,2009,720,196
+"24453","3 punti sbagliato","","Shabazz Napier","missed",250,2050,855,952
+"24453","2 punti segnato","","Shabazz Napier","made",352,2152,750,448
+"24453","2 punti sbagliato","","Nicolò Melli","missed",406,2206,390,532
+"24453","2 punti sbagliato","","Shavon Shields","missed",471,2271,975,560
+"24453","2 punti segnato","","Shavon Shields","made",517,2317,840,252
+"24453","2 punti sbagliato","","Shabazz Napier","missed",543,2343,885,728
+"24453","2 punti sbagliato","","Shavon Shields","missed",583,2383,960,308
+"24454","3 punti sbagliato","","Nikola Mirotic","missed",43,43,1230,700
+"24454","2 punti segnato","","Stefano Tonut","made",87,87,615,252
+"24454","2 punti sbagliato","","Nicolò Melli","missed",141,141,645,196
+"24454","2 punti segnato","","Nikola Mirotic","made",220,220,855,252
+"24454","3 punti sbagliato","","Nikola Mirotic","missed",279,279,360,924
+"24454","3 punti sbagliato","","Shabazz Napier","missed",292,292,630,980
+"24454","2 punti segnato","Nicolò Melli","Stefano Tonut","made",314,314,750,336
+"24454","3 punti segnato","","Stefano Tonut","made",333,333,930,868
+"24454","2 punti sbagliato","","Diego Flaccadori","missed",365,365,1050,644
+"24454","2 punti sbagliato","","Shavon Shields","missed",402,402,690,280
+"24454","2 punti sbagliato","","Diego Flaccadori","missed",431,431,525,616
+"24454","3 punti sbagliato","","Shavon Shields","missed",486,486,1275,644
+"24454","3 punti segnato","Shavon Shields","Diego Flaccadori","made",540,540,195,672
+"24454","2 punti segnato","","Johannes Voigtmann","made",582,582,510,336
+"24454","3 punti sbagliato","","Johannes Voigtmann","missed",42,642,1230,700
+"24454","2 punti segnato","","Devon Hall","made",77,677,705,252
+"24454","2 punti segnato","Stefano Tonut","Johannes Voigtmann","made",113,713,780,252
+"24454","2 punti sbagliato","","Stefano Tonut","missed",153,753,735,364
+"24454","2 punti segnato","Shabazz Napier","Nicolò Melli","made",179,779,855,224
+"24454","3 punti segnato","Shabazz Napier","Nicolò Melli","made",261,861,180,756
+"24454","3 punti segnato","Shavon Shields","Shabazz Napier","made",317,917,360,1064
+"24454","2 punti segnato","Nicolò Melli","Nikola Mirotic","made",355,955,1245,504
+"24454","2 punti segnato","Shabazz Napier","Nikola Mirotic","made",392,992,660,252
+"24454","2 punti sbagliato","","Devon Hall","missed",486,1086,1005,280
+"24454","2 punti segnato","","Nikola Mirotic","made",486,1086,1005,280
+"24454","3 punti sbagliato","","Devon Hall","missed",524,1124,1005,840
+"24454","3 punti sbagliato","","Nikola Mirotic","missed",567,1167,375,980
+"24454","3 punti sbagliato","","Stefano Tonut","missed",33,1233,1455,252
+"24454","3 punti segnato","Shabazz Napier","Nikola Mirotic","made",39,1239,525,840
+"24454","3 punti segnato","Stefano Tonut","Nicolò Melli","made",83,1283,45,196
+"24454","2 punti sbagliato","","Nicolò Melli","missed",124,1324,780,728
+"24454","2 punti sbagliato","","Nicolò Melli","missed",170,1370,1080,336
+"24454","2 punti sbagliato","","Nikola Mirotic","missed",263,1463,825,252
+"24454","2 punti sbagliato","","Shavon Shields","missed",300,1500,915,336
+"24454","2 punti sbagliato","","Nikola Mirotic","missed",323,1523,555,224
+"24454","3 punti segnato","Diego Flaccadori","Shavon Shields","made",359,1559,225,728
+"24454","2 punti segnato","Shavon Shields","Kyle Hines","made",404,1604,840,224
+"24454","3 punti sbagliato","","Johannes Voigtmann","missed",437,1637,1350,560
+"24454","2 punti segnato","","Diego Flaccadori","made",470,1670,645,252
+"24454","2 punti sbagliato","","Johannes Voigtmann","missed",505,1705,705,308
+"24454","2 punti sbagliato","","Johannes Voigtmann","missed",547,1747,765,420
+"24454","3 punti segnato","","Shavon Shields","made",587,1787,765,1036
+"24454","3 punti sbagliato","","Devon Hall","missed",136,1936,1140,868
+"24454","3 punti segnato","Devon Hall","Nikola Mirotic","made",280,2080,90,504
+"24454","2 punti segnato","","Devon Hall","made",344,2144,690,224
+"24454","3 punti sbagliato","","Nicolò Melli","missed",488,2288,1440,364
+"24454","2 punti segnato","Shavon Shields","Diego Flaccadori","made",564,2364,675,168

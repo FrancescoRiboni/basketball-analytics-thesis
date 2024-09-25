@@ -1,0 +1,685 @@
+,game_id,description,assist,player,result,periodTime,totalTime,xx,yy,sector_id
+0,Milano Trento game 1,2 punti segnato,,Shavon Shields,made,34,34,1020,644,3
+1,Milano Trento game 1,2 punti sbagliato,,Stefano Tonut,missed,102,102,825,196,0
+2,Milano Trento game 1,2 punti sbagliato,,Nicolò Melli,missed,102,102,825,196,0
+3,Milano Trento game 1,3 punti segnato,Nicolò Melli,Shavon Shields,made,128,128,1020,896,7
+4,Milano Trento game 1,3 punti segnato,,Shabazz Napier,made,218,218,300,840,6
+5,Milano Trento game 1,3 punti segnato,Shabazz Napier,Nikola Mirotic,made,257,257,1110,896,7
+6,Milano Trento game 1,2 punti sbagliato,,Shavon Shields,missed,298,298,585,196,0
+7,Milano Trento game 1,2 punti segnato,,Nicolò Melli,made,298,298,585,196,0
+8,Milano Trento game 1,2 punti segnato,Shabazz Napier,Shavon Shields,made,327,327,660,252,0
+9,Milano Trento game 1,2 punti segnato,,Shavon Shields,made,366,366,630,196,0
+10,Milano Trento game 1,3 punti segnato,Shavon Shields,Shabazz Napier,made,405,405,1410,532,8
+11,Milano Trento game 1,2 punti segnato,,Shavon Shields,made,427,427,510,644,2
+12,Milano Trento game 1,2 punti sbagliato,,Giampaolo Ricci,missed,456,456,555,336,2
+13,Milano Trento game 1,3 punti segnato,Giampaolo Ricci,Billy Baron,made,517,517,45,224,5
+14,Milano Trento game 1,2 punti sbagliato,,Kyle Hines,missed,560,560,1095,196,4
+15,Milano Trento game 1,2 punti segnato,Devon Hall,Kyle Hines,made,600,600,750,196,0
+16,Milano Trento game 1,2 punti sbagliato,,Devon Hall,missed,63,663,615,280,0
+17,Milano Trento game 1,3 punti sbagliato,,Giampaolo Ricci,missed,109,709,1365,616,7
+18,Milano Trento game 1,2 punti sbagliato,,Devon Hall,missed,127,727,780,252,0
+19,Milano Trento game 1,2 punti sbagliato,,Giampaolo Ricci,missed,127,727,780,252,0
+20,Milano Trento game 1,2 punti segnato,Nikola Mirotic,Stefano Tonut,made,166,766,315,560,2
+21,Milano Trento game 1,3 punti sbagliato,,Stefano Tonut,missed,203,803,75,420,5
+22,Milano Trento game 1,2 punti segnato,,Nikola Mirotic,made,279,879,1005,140,4
+23,Milano Trento game 1,3 punti sbagliato,,Stefano Tonut,missed,310,910,30,336,5
+24,Milano Trento game 1,3 punti sbagliato,,Nikola Mirotic,missed,329,929,1455,112,8
+25,Milano Trento game 1,2 punti segnato,,Stefano Tonut,made,329,929,1455,112,8
+26,Milano Trento game 1,3 punti sbagliato,,Nicolò Melli,missed,371,971,435,868,6
+27,Milano Trento game 1,3 punti sbagliato,,Nicolò Melli,missed,431,1031,1455,196,8
+28,Milano Trento game 1,3 punti segnato,Shavon Shields,Nicolò Melli,made,443,1043,1320,644,7
+29,Milano Trento game 1,2 punti sbagliato,,Nikola Mirotic,missed,485,1085,780,336,0
+30,Milano Trento game 1,2 punti sbagliato,,Shavon Shields,missed,516,1116,825,196,0
+31,Milano Trento game 1,3 punti sbagliato,,Devon Hall,missed,599,1199,495,476,2
+32,Milano Trento game 1,2 punti sbagliato,,Shabazz Napier,missed,22,1222,675,700,2
+33,Milano Trento game 1,2 punti segnato,Nicolò Melli,Stefano Tonut,made,56,1256,945,252,0
+34,Milano Trento game 1,3 punti sbagliato,,Nikola Mirotic,missed,115,1315,690,952,6
+35,Milano Trento game 1,3 punti sbagliato,,Nicolò Melli,missed,142,1342,180,616,6
+36,Milano Trento game 1,2 punti segnato,,Shavon Shields,made,160,1360,690,140,0
+37,Milano Trento game 1,2 punti sbagliato,,Shavon Shields,missed,200,1400,750,784,2
+38,Milano Trento game 1,2 punti segnato,Shabazz Napier,Stefano Tonut,made,226,1426,915,140,0
+39,Milano Trento game 1,2 punti segnato,Stefano Tonut,Shavon Shields,made,266,1466,810,224,0
+40,Milano Trento game 1,3 punti sbagliato,,Shabazz Napier,missed,322,1522,60,392,5
+41,Milano Trento game 1,2 punti segnato,,Shabazz Napier,made,372,1572,810,280,0
+42,Milano Trento game 1,3 punti sbagliato,,Shabazz Napier,missed,393,1593,1245,728,7
+43,Milano Trento game 1,2 punti segnato,,Kyle Hines,made,415,1615,840,196,0
+44,Milano Trento game 1,2 punti sbagliato,,Billy Baron,missed,486,1686,150,308,1
+45,Milano Trento game 1,3 punti sbagliato,,Giampaolo Ricci,missed,492,1692,1455,112,8
+46,Milano Trento game 1,2 punti sbagliato,,Shavon Shields,missed,532,1732,645,728,2
+47,Milano Trento game 1,2 punti sbagliato,,Shavon Shields,missed,597,1797,780,308,0
+48,Milano Trento game 1,3 punti sbagliato,,Giampaolo Ricci,missed,25,1825,1155,784,7
+49,Milano Trento game 1,2 punti segnato,,Shavon Shields,made,203,2003,540,644,2
+50,Milano Trento game 1,3 punti sbagliato,,Devon Hall,missed,242,2042,45,196,5
+51,Milano Trento game 1,2 punti sbagliato,,Nicolò Melli,missed,273,2073,945,672,3
+52,Milano Trento game 1,2 punti segnato,,Shavon Shields,made,323,2123,855,336,0
+53,Milano Trento game 1,2 punti segnato,,Shabazz Napier,made,362,2162,255,420,1
+54,Milano Trento game 1,3 punti segnato,Nikola Mirotic,Nicolò Melli,made,408,2208,1455,196,8
+55,Milano Trento game 1,3 punti sbagliato,,Shabazz Napier,missed,444,2244,1290,756,7
+56,Milano Trento game 1,2 punti sbagliato,,Stefano Tonut,missed,491,2291,900,196,0
+57,Milano Trento game 1,3 punti sbagliato,,Nicolò Melli,missed,501,2301,1005,868,7
+58,Milano Trento game 1,3 punti sbagliato,,Nicolò Melli,missed,599,2399,720,476,2
+59,Milano Trento game 2,2 punti segnato,,Nicolò Melli,made,39,39,795,252,0
+60,Milano Trento game 2,2 punti segnato,Nikola Mirotic,Nicolò Melli,made,66,66,1125,252,4
+61,Milano Trento game 2,2 punti segnato,Shavon Shields,Nicolò Melli,made,110,110,720,196,0
+62,Milano Trento game 2,3 punti sbagliato,,Nikola Mirotic,missed,136,136,750,896,6
+63,Milano Trento game 2,2 punti segnato,Shabazz Napier,Nicolò Melli,made,171,171,720,560,2
+64,Milano Trento game 2,2 punti segnato,,Stefano Tonut,made,211,211,825,196,0
+65,Milano Trento game 2,2 punti segnato,Shabazz Napier,Nicolò Melli,made,279,279,585,252,0
+66,Milano Trento game 2,2 punti sbagliato,,Diego Flaccadori,missed,313,313,1095,392,3
+67,Milano Trento game 2,2 punti segnato,,Nicolò Melli,made,313,313,1095,392,3
+68,Milano Trento game 2,2 punti segnato,Shavon Shields,Nikola Mirotic,made,344,344,750,252,0
+69,Milano Trento game 2,2 punti segnato,Shavon Shields,Devon Hall,made,368,368,825,168,0
+70,Milano Trento game 2,2 punti sbagliato,,Devon Hall,missed,390,390,510,308,2
+71,Milano Trento game 2,2 punti segnato,,Diego Flaccadori,made,456,456,1035,448,3
+72,Milano Trento game 2,2 punti segnato,Shavon Shields,Devon Hall,made,475,475,825,168,0
+73,Milano Trento game 2,3 punti segnato,Diego Flaccadori,Shavon Shields,made,513,513,60,336,5
+74,Milano Trento game 2,3 punti segnato,Johannes Voigtmann,Shavon Shields,made,550,550,225,700,6
+75,Milano Trento game 2,3 punti segnato,Shabazz Napier,Diego Flaccadori,made,561,561,375,784,6
+76,Milano Trento game 2,2 punti segnato,,Shabazz Napier,made,597,597,765,252,0
+77,Milano Trento game 2,2 punti sbagliato,,Kyle Hines,missed,16,616,870,224,0
+78,Milano Trento game 2,3 punti segnato,,Devon Hall,made,26,626,1185,756,7
+79,Milano Trento game 2,2 punti segnato,,Shabazz Napier,made,57,657,780,252,0
+80,Milano Trento game 2,2 punti sbagliato,,Shabazz Napier,missed,83,683,930,644,3
+81,Milano Trento game 2,2 punti segnato,,Devon Hall,made,110,710,1020,224,4
+82,Milano Trento game 2,2 punti sbagliato,,Shabazz Napier,missed,128,728,555,392,2
+83,Milano Trento game 2,2 punti segnato,Johannes Voigtmann,Nicolò Melli,made,145,745,630,224,0
+84,Milano Trento game 2,2 punti segnato,Devon Hall,Johannes Voigtmann,made,160,760,825,196,0
+85,Milano Trento game 2,2 punti segnato,,Shavon Shields,made,231,831,900,448,3
+86,Milano Trento game 2,2 punti sbagliato,,Shavon Shields,missed,264,864,390,560,2
+87,Milano Trento game 2,2 punti segnato,,Nicolò Melli,made,264,864,390,560,2
+88,Milano Trento game 2,2 punti sbagliato,,Shavon Shields,missed,294,894,705,392,0
+89,Milano Trento game 2,2 punti segnato,Nikola Mirotic,Shavon Shields,made,353,953,675,196,0
+90,Milano Trento game 2,2 punti sbagliato,,Shavon Shields,missed,382,982,735,252,0
+91,Milano Trento game 2,3 punti segnato,Stefano Tonut,Shavon Shields,made,419,1019,285,728,6
+92,Milano Trento game 2,3 punti segnato,Johannes Voigtmann,Shavon Shields,made,444,1044,45,196,5
+93,Milano Trento game 2,2 punti segnato,Nikola Mirotic,Shavon Shields,made,465,1065,780,196,0
+94,Milano Trento game 2,2 punti segnato,,Shavon Shields,made,516,1116,810,224,0
+95,Milano Trento game 2,3 punti sbagliato,,Nikola Mirotic,missed,555,1155,750,896,6
+96,Milano Trento game 2,2 punti segnato,Shabazz Napier,Nicolò Melli,made,57,1257,750,140,0
+97,Milano Trento game 2,2 punti segnato,,Shavon Shields,made,96,1296,930,504,3
+98,Milano Trento game 2,3 punti segnato,Nikola Mirotic,Shavon Shields,made,166,1366,300,728,6
+99,Milano Trento game 2,2 punti segnato,,Shavon Shields,made,189,1389,705,168,0
+100,Milano Trento game 2,3 punti sbagliato,,Nicolò Melli,missed,215,1415,705,868,6
+101,Milano Trento game 2,2 punti sbagliato,,Diego Flaccadori,missed,328,1528,450,532,2
+102,Milano Trento game 2,2 punti sbagliato,,Diego Flaccadori,missed,342,1542,1050,504,3
+103,Milano Trento game 2,2 punti segnato,,Devon Hall,made,375,1575,480,616,2
+104,Milano Trento game 2,2 punti segnato,Johannes Voigtmann,Kyle Hines,made,392,1592,810,252,0
+105,Milano Trento game 2,2 punti sbagliato,,Devon Hall,missed,402,1602,990,252,4
+106,Milano Trento game 2,2 punti segnato,,Kyle Hines,made,402,1602,990,252,4
+107,Milano Trento game 2,2 punti sbagliato,,Devon Hall,missed,435,1635,630,252,0
+108,Milano Trento game 2,3 punti segnato,Johannes Voigtmann,Stefano Tonut,made,440,1640,315,756,6
+109,Milano Trento game 2,3 punti sbagliato,,Devon Hall,missed,489,1689,345,840,6
+110,Milano Trento game 2,2 punti sbagliato,,Diego Flaccadori,missed,506,1706,630,224,0
+111,Milano Trento game 2,2 punti segnato,Shavon Shields,Kyle Hines,made,544,1744,855,168,0
+112,Milano Trento game 2,3 punti sbagliato,,Shavon Shields,missed,575,1775,795,896,7
+113,Milano Trento game 2,3 punti sbagliato,,Shavon Shields,missed,598,1798,510,896,6
+114,Milano Trento game 2,2 punti sbagliato,,Nicolò Melli,missed,97,1897,540,672,2
+115,Milano Trento game 2,3 punti segnato,Nicolò Melli,Nikola Mirotic,made,125,1925,225,700,6
+116,Milano Trento game 2,3 punti segnato,Shabazz Napier,Nikola Mirotic,made,189,1989,750,924,6
+117,Milano Trento game 2,3 punti segnato,Shabazz Napier,Giampaolo Ricci,made,276,2076,1305,588,7
+118,Milano Trento game 2,2 punti sbagliato,,Shabazz Napier,missed,305,2105,780,420,3
+119,Milano Trento game 2,2 punti sbagliato,,Nikola Mirotic,missed,348,2148,225,504,2
+120,Milano Trento game 2,3 punti sbagliato,,Stefano Tonut,missed,440,2240,120,448,5
+121,Milano Trento game 2,2 punti segnato,,Diego Flaccadori,made,446,2246,975,644,3
+122,Milano Trento game 2,2 punti segnato,Diego Flaccadori,Kyle Hines,made,524,2324,825,140,0
+123,Milano Trento game 3,2 punti sbagliato,,Shabazz Napier,missed,25,25,570,644,2
+124,Milano Trento game 3,2 punti segnato,,Nikola Mirotic,made,71,71,1005,364,3
+125,Milano Trento game 3,3 punti sbagliato,,Stefano Tonut,missed,108,108,1260,728,7
+126,Milano Trento game 3,2 punti sbagliato,,Devon Hall,missed,169,169,870,364,0
+127,Milano Trento game 3,3 punti sbagliato,,Devon Hall,missed,208,208,90,504,5
+128,Milano Trento game 3,2 punti sbagliato,,Nicolò Melli,missed,208,208,90,504,5
+129,Milano Trento game 3,2 punti sbagliato,,Nikola Mirotic,missed,234,234,360,168,1
+130,Milano Trento game 3,3 punti sbagliato,,Shabazz Napier,missed,269,269,720,896,6
+131,Milano Trento game 3,3 punti sbagliato,,Devon Hall,missed,292,292,1365,532,7
+132,Milano Trento game 3,3 punti segnato,Shabazz Napier,Nikola Mirotic,made,308,308,75,364,5
+133,Milano Trento game 3,3 punti sbagliato,,Nikola Mirotic,missed,394,394,1140,812,7
+134,Milano Trento game 3,2 punti sbagliato,,Johannes Voigtmann,missed,434,434,1365,140,4
+135,Milano Trento game 3,2 punti segnato,,Kyle Hines,made,438,438,675,140,0
+136,Milano Trento game 3,2 punti sbagliato,,Devon Hall,missed,468,468,825,308,0
+137,Milano Trento game 3,2 punti segnato,Kyle Hines,Johannes Voigtmann,made,523,523,750,112,0
+138,Milano Trento game 3,2 punti segnato,Johannes Voigtmann,Kyle Hines,made,544,544,885,196,0
+139,Milano Trento game 3,2 punti segnato,,Stefano Tonut,made,583,583,675,140,0
+140,Milano Trento game 3,3 punti sbagliato,,Stefano Tonut,missed,599,599,1305,868,7
+141,Milano Trento game 3,3 punti sbagliato,,Stefano Tonut,missed,34,634,360,812,6
+142,Milano Trento game 3,2 punti sbagliato,,Stefano Tonut,missed,104,704,615,224,0
+143,Milano Trento game 3,2 punti segnato,Diego Flaccadori,Johannes Voigtmann,made,117,717,750,140,0
+144,Milano Trento game 3,3 punti sbagliato,,Johannes Voigtmann,missed,157,757,1380,560,7
+145,Milano Trento game 3,2 punti sbagliato,,Diego Flaccadori,missed,203,803,735,644,2
+146,Milano Trento game 3,2 punti segnato,,Kyle Hines,made,214,814,750,140,0
+147,Milano Trento game 3,2 punti segnato,,Devon Hall,made,237,837,855,560,3
+148,Milano Trento game 3,3 punti segnato,Nicolò Melli,Shabazz Napier,made,268,868,225,728,6
+149,Milano Trento game 3,2 punti sbagliato,,Shabazz Napier,missed,304,904,1020,560,3
+150,Milano Trento game 3,2 punti sbagliato,,Devon Hall,missed,339,939,885,280,0
+151,Milano Trento game 3,2 punti segnato,Devon Hall,Nicolò Melli,made,420,1020,1095,588,3
+152,Milano Trento game 3,2 punti segnato,,Devon Hall,made,452,1052,795,196,0
+153,Milano Trento game 3,3 punti segnato,,Shabazz Napier,made,480,1080,465,812,6
+154,Milano Trento game 3,2 punti segnato,,Shabazz Napier,made,505,1105,840,252,0
+155,Milano Trento game 3,3 punti segnato,,Shabazz Napier,made,545,1145,975,868,7
+156,Milano Trento game 3,2 punti segnato,,Devon Hall,made,578,1178,810,252,0
+157,Milano Trento game 3,2 punti sbagliato,,Devon Hall,missed,21,1221,360,252,1
+158,Milano Trento game 3,3 punti sbagliato,,Nikola Mirotic,missed,82,1282,405,840,6
+159,Milano Trento game 3,2 punti segnato,Shabazz Napier,Nicolò Melli,made,103,1303,795,196,0
+160,Milano Trento game 3,2 punti segnato,Shabazz Napier,Nikola Mirotic,made,128,1328,780,196,0
+161,Milano Trento game 3,3 punti segnato,Devon Hall,Shabazz Napier,made,155,1355,1200,784,7
+162,Milano Trento game 3,2 punti segnato,Shabazz Napier,Nikola Mirotic,made,185,1385,660,140,0
+163,Milano Trento game 3,2 punti segnato,,Shabazz Napier,made,234,1434,915,224,0
+164,Milano Trento game 3,2 punti sbagliato,,Shabazz Napier,missed,265,1465,1065,588,3
+165,Milano Trento game 3,2 punti segnato,Devon Hall,Nikola Mirotic,made,273,1473,825,224,0
+166,Milano Trento game 3,2 punti sbagliato,,Nikola Mirotic,missed,320,1520,1065,392,3
+167,Milano Trento game 3,3 punti segnato,Stefano Tonut,Nicolò Melli,made,391,1591,1245,728,7
+168,Milano Trento game 3,2 punti segnato,,Stefano Tonut,made,443,1643,1095,532,3
+169,Milano Trento game 3,2 punti sbagliato,,Nicolò Melli,missed,512,1712,360,196,1
+170,Milano Trento game 3,2 punti sbagliato,,Stefano Tonut,missed,571,1771,1170,280,4
+171,Milano Trento game 3,3 punti sbagliato,,Shabazz Napier,missed,600,1800,510,924,6
+172,Milano Trento game 3,3 punti segnato,Diego Flaccadori,Johannes Voigtmann,made,45,1845,945,924,7
+173,Milano Trento game 3,2 punti segnato,Shabazz Napier,Kyle Hines,made,69,1869,825,140,0
+174,Milano Trento game 3,3 punti segnato,Shabazz Napier,Johannes Voigtmann,made,97,1897,165,644,6
+175,Milano Trento game 3,3 punti sbagliato,,Devon Hall,missed,187,1987,180,700,6
+176,Milano Trento game 3,3 punti sbagliato,,Nikola Mirotic,missed,233,2033,60,84,5
+177,Milano Trento game 3,2 punti segnato,,Devon Hall,made,283,2083,675,644,2
+178,Milano Trento game 3,3 punti segnato,,Shabazz Napier,made,338,2138,1245,700,7
+179,Milano Trento game 3,2 punti sbagliato,,Devon Hall,missed,371,2171,765,364,0
+180,Milano Trento game 3,3 punti segnato,Diego Flaccadori,Nicolò Melli,made,430,2230,60,140,5
+181,Milano Trento game 3,2 punti segnato,,Diego Flaccadori,made,468,2268,660,420,2
+182,Milano Trento game 3,3 punti sbagliato,,Nicolò Melli,missed,508,2308,105,560,6
+183,Milano Trento game 3,3 punti sbagliato,,Stefano Tonut,missed,538,2338,270,756,6
+184,Milano Trento game 3,2 punti sbagliato,,Stefano Tonut,missed,553,2353,840,168,0
+185,Milano Trento game 3,2 punti segnato,,Diego Flaccadori,made,581,2381,645,196,0
+186,Milano Trento game 4,2 punti segnato,,Nikola Mirotic,made,75,75,1155,280,4
+187,Milano Trento game 4,2 punti segnato,,Stefano Tonut,made,103,103,570,336,2
+188,Milano Trento game 4,2 punti segnato,,Devon Hall,made,161,161,975,224,0
+189,Milano Trento game 4,2 punti segnato,Shabazz Napier,Nicolò Melli,made,194,194,720,140,0
+190,Milano Trento game 4,2 punti sbagliato,,Stefano Tonut,missed,271,271,870,196,0
+191,Milano Trento game 4,3 punti sbagliato,,Nikola Mirotic,missed,299,299,585,896,6
+192,Milano Trento game 4,3 punti sbagliato,,Diego Flaccadori,missed,310,310,180,560,6
+193,Milano Trento game 4,3 punti segnato,,Shabazz Napier,made,337,337,450,840,6
+194,Milano Trento game 4,2 punti segnato,,Shabazz Napier,made,364,364,780,224,0
+195,Milano Trento game 4,3 punti segnato,,Shabazz Napier,made,466,466,990,896,7
+196,Milano Trento game 4,2 punti segnato,,Diego Flaccadori,made,482,482,795,196,0
+197,Milano Trento game 4,3 punti sbagliato,,Shabazz Napier,missed,506,506,195,672,6
+198,Milano Trento game 4,2 punti segnato,,Johannes Voigtmann,made,570,570,945,308,3
+199,Milano Trento game 4,2 punti segnato,,Giampaolo Ricci,made,15,615,690,392,0
+200,Milano Trento game 4,2 punti segnato,,Johannes Voigtmann,made,63,663,825,252,0
+201,Milano Trento game 4,2 punti sbagliato,,Giampaolo Ricci,missed,63,663,825,252,0
+202,Milano Trento game 4,3 punti segnato,Diego Flaccadori,Devon Hall,made,114,714,1170,728,7
+203,Milano Trento game 4,2 punti sbagliato,,Diego Flaccadori,missed,201,801,750,308,0
+204,Milano Trento game 4,2 punti segnato,,Nicolò Melli,made,201,801,795,196,0
+205,Milano Trento game 4,2 punti segnato,Giampaolo Ricci,Johannes Voigtmann,made,223,823,810,252,0
+206,Milano Trento game 4,3 punti sbagliato,,Nicolò Melli,missed,263,863,1305,644,7
+207,Milano Trento game 4,3 punti sbagliato,,Devon Hall,missed,381,981,1050,840,7
+208,Milano Trento game 4,2 punti sbagliato,,Shabazz Napier,missed,396,996,735,588,2
+209,Milano Trento game 4,2 punti segnato,,Shabazz Napier,made,434,1034,690,168,0
+210,Milano Trento game 4,2 punti sbagliato,,Nicolò Melli,missed,478,1078,465,532,2
+211,Milano Trento game 4,2 punti segnato,Diego Flaccadori,Kyle Hines,made,514,1114,855,364,0
+212,Milano Trento game 4,2 punti sbagliato,,Stefano Tonut,missed,540,1140,840,252,0
+213,Milano Trento game 4,3 punti sbagliato,,Shabazz Napier,missed,565,1165,1005,868,7
+214,Milano Trento game 4,3 punti sbagliato,,Diego Flaccadori,missed,599,1199,855,952,7
+215,Milano Trento game 4,3 punti segnato,Stefano Tonut,Nicolò Melli,made,81,1281,75,420,5
+216,Milano Trento game 4,2 punti segnato,,Devon Hall,made,125,1325,660,252,0
+217,Milano Trento game 4,3 punti segnato,Devon Hall,Stefano Tonut,made,167,1367,1230,728,7
+218,Milano Trento game 4,3 punti sbagliato,,Shabazz Napier,missed,220,1420,345,1232,6
+219,Milano Trento game 4,2 punti segnato,,Nikola Mirotic,made,257,1457,375,252,1
+220,Milano Trento game 4,2 punti sbagliato,,Stefano Tonut,missed,282,1482,585,420,2
+221,Milano Trento game 4,2 punti segnato,,Diego Flaccadori,made,308,1508,615,308,0
+222,Milano Trento game 4,3 punti segnato,Devon Hall,Giampaolo Ricci,made,347,1547,210,700,6
+223,Milano Trento game 4,2 punti segnato,Johannes Voigtmann,Kyle Hines,made,367,1567,720,224,0
+224,Milano Trento game 4,2 punti segnato,,Diego Flaccadori,made,406,1606,945,644,3
+225,Milano Trento game 4,2 punti sbagliato,,Kyle Hines,missed,447,1647,705,700,2
+226,Milano Trento game 4,2 punti segnato,Kyle Hines,Giampaolo Ricci,made,458,1658,810,224,0
+227,Milano Trento game 4,2 punti segnato,Diego Flaccadori,Giampaolo Ricci,made,490,1690,690,224,0
+228,Milano Trento game 4,2 punti sbagliato,,Diego Flaccadori,missed,526,1726,825,336,0
+229,Milano Trento game 4,3 punti sbagliato,,Giampaolo Ricci,missed,539,1739,1170,812,7
+230,Milano Trento game 4,2 punti segnato,,Stefano Tonut,made,557,1757,840,224,0
+231,Milano Trento game 4,2 punti segnato,Kyle Hines,Johannes Voigtmann,made,594,1794,795,252,0
+232,Milano Trento game 4,2 punti segnato,,Johannes Voigtmann,made,17,1817,660,252,0
+233,Milano Trento game 4,3 punti segnato,,Nicolò Melli,made,71,1871,600,924,6
+234,Milano Trento game 4,3 punti segnato,Shabazz Napier,Nicolò Melli,made,106,1906,30,224,5
+235,Milano Trento game 4,2 punti segnato,,Stefano Tonut,made,195,1995,450,588,2
+236,Milano Trento game 4,3 punti sbagliato,,Nicolò Melli,missed,246,2046,555,868,6
+237,Milano Trento game 4,2 punti segnato,,Nikola Mirotic,made,298,2098,270,252,1
+238,Milano Trento game 4,3 punti sbagliato,,Stefano Tonut,missed,330,2130,960,896,7
+239,Milano Trento game 4,3 punti sbagliato,,Stefano Tonut,missed,365,2165,1440,308,8
+240,Milano Trento game 4,3 punti sbagliato,,Guglielmo Caruso,missed,379,2179,1110,924,7
+241,Milano Trento game 4,3 punti sbagliato,,Giordano Bortolani,missed,478,2278,1080,840,7
+242,Milano Trento game 4,2 punti sbagliato,,Diego Flaccadori,missed,510,2310,615,252,0
+243,Milano Trento game 4,2 punti segnato,,Guglielmo Caruso,made,541,2341,600,280,0
+244,Milano Trento game 4,2 punti segnato,,Giordano Bortolani,made,560,2360,765,252,0
+245,Milano Brescia game 1,3 punti sbagliato,,Shavon Shields,missed,36,36,465,980,6
+246,Milano Brescia game 1,2 punti sbagliato,,Stefano Tonut,missed,62,62,720,364,0
+247,Milano Brescia game 1,3 punti segnato,Shabazz Napier,Stefano Tonut,made,130,130,1125,812,7
+248,Milano Brescia game 1,2 punti segnato,Shabazz Napier,Shavon Shields,made,155,155,765,168,0
+249,Milano Brescia game 1,2 punti segnato,Shabazz Napier,Stefano Tonut,made,171,171,765,196,0
+250,Milano Brescia game 1,2 punti segnato,Johannes Voigtmann,Stefano Tonut,made,181,181,810,168,0
+251,Milano Brescia game 1,2 punti segnato,Nicolò Melli,Stefano Tonut,made,217,217,660,168,0
+252,Milano Brescia game 1,3 punti segnato,Devon Hall,Johannes Voigtmann,made,280,280,1140,812,7
+253,Milano Brescia game 1,2 punti sbagliato,,Kyle Hines,missed,321,321,645,644,2
+254,Milano Brescia game 1,2 punti sbagliato,,Shabazz Napier,missed,330,330,645,252,0
+255,Milano Brescia game 1,3 punti segnato,Devon Hall,Johannes Voigtmann,made,343,343,975,896,7
+256,Milano Brescia game 1,2 punti sbagliato,,Stefano Tonut,missed,371,371,270,420,1
+257,Milano Brescia game 1,2 punti sbagliato,,Devon Hall,missed,460,460,510,364,2
+258,Milano Brescia game 1,2 punti segnato,,Kyle Hines,made,460,460,510,364,2
+259,Milano Brescia game 1,2 punti segnato,,Johannes Voigtmann,made,523,523,375,308,1
+260,Milano Brescia game 1,3 punti segnato,Kyle Hines,Johannes Voigtmann,made,560,560,1005,896,7
+261,Milano Brescia game 1,2 punti segnato,,Devon Hall,made,591,591,600,168,0
+262,Milano Brescia game 1,2 punti segnato,Devon Hall,Nicolò Melli,made,13,613,750,560,2
+263,Milano Brescia game 1,3 punti sbagliato,,Johannes Voigtmann,missed,54,654,1155,812,7
+264,Milano Brescia game 1,2 punti sbagliato,,Shavon Shields,missed,102,702,750,280,0
+265,Milano Brescia game 1,2 punti sbagliato,,Shavon Shields,missed,102,702,750,280,0
+266,Milano Brescia game 1,3 punti sbagliato,,Diego Flaccadori,missed,128,728,1365,644,7
+267,Milano Brescia game 1,3 punti sbagliato,,Nikola Mirotic,missed,134,734,60,364,5
+268,Milano Brescia game 1,2 punti segnato,Stefano Tonut,Nicolò Melli,made,162,762,840,672,3
+269,Milano Brescia game 1,2 punti sbagliato,,Nicolò Melli,missed,196,796,390,644,2
+270,Milano Brescia game 1,2 punti segnato,,Nikola Mirotic,made,196,796,390,644,2
+271,Milano Brescia game 1,2 punti sbagliato,,Nikola Mirotic,missed,239,839,645,336,0
+272,Milano Brescia game 1,3 punti sbagliato,,Stefano Tonut,missed,270,870,1440,140,8
+273,Milano Brescia game 1,3 punti segnato,,Shabazz Napier,made,345,945,210,672,6
+274,Milano Brescia game 1,3 punti segnato,Devon Hall,Johannes Voigtmann,made,431,1031,1305,700,7
+275,Milano Brescia game 1,2 punti segnato,Johannes Voigtmann,Stefano Tonut,made,449,1049,765,252,0
+276,Milano Brescia game 1,3 punti sbagliato,,Devon Hall,missed,511,1111,315,840,6
+277,Milano Brescia game 1,3 punti segnato,Devon Hall,Johannes Voigtmann,made,535,1135,150,672,6
+278,Milano Brescia game 1,2 punti segnato,Stefano Tonut,Johannes Voigtmann,made,560,1160,1305,420,4
+279,Milano Brescia game 1,3 punti sbagliato,,Shabazz Napier,missed,593,1193,450,896,6
+280,Milano Brescia game 1,2 punti sbagliato,,Johannes Voigtmann,missed,40,1240,390,224,1
+281,Milano Brescia game 1,3 punti sbagliato,,Johannes Voigtmann,missed,82,1282,30,168,5
+282,Milano Brescia game 1,2 punti sbagliato,,Stefano Tonut,missed,113,1313,900,252,0
+283,Milano Brescia game 1,2 punti sbagliato,,Shabazz Napier,missed,127,1327,840,728,3
+284,Milano Brescia game 1,2 punti segnato,Stefano Tonut,Kyle Hines,made,166,1366,840,252,0
+285,Milano Brescia game 1,2 punti segnato,Shabazz Napier,Kyle Hines,made,220,1420,855,252,0
+286,Milano Brescia game 1,2 punti sbagliato,,Stefano Tonut,missed,255,1455,675,280,0
+287,Milano Brescia game 1,2 punti segnato,,Kyle Hines,made,255,1455,675,280,0
+288,Milano Brescia game 1,3 punti sbagliato,,Shavon Shields,missed,301,1501,390,840,6
+289,Milano Brescia game 1,3 punti segnato,Devon Hall,Diego Flaccadori,made,345,1545,45,112,5
+290,Milano Brescia game 1,3 punti sbagliato,,Stefano Tonut,missed,422,1622,1425,392,8
+291,Milano Brescia game 1,3 punti sbagliato,,Giampaolo Ricci,missed,478,1678,1305,672,7
+292,Milano Brescia game 1,2 punti segnato,,Giampaolo Ricci,made,545,1745,885,224,0
+293,Milano Brescia game 1,3 punti sbagliato,,Giampaolo Ricci,missed,580,1780,1050,924,7
+294,Milano Brescia game 1,2 punti segnato,Nicolò Melli,Johannes Voigtmann,made,16,1816,780,280,0
+295,Milano Brescia game 1,3 punti segnato,Diego Flaccadori,Nicolò Melli,made,62,1862,1275,812,7
+296,Milano Brescia game 1,2 punti segnato,Johannes Voigtmann,Nicolò Melli,made,119,1919,765,196,0
+297,Milano Brescia game 1,2 punti sbagliato,,Diego Flaccadori,missed,216,2016,300,196,1
+298,Milano Brescia game 1,3 punti sbagliato,,Diego Flaccadori,missed,242,2042,285,728,6
+299,Milano Brescia game 1,2 punti sbagliato,,Nicolò Melli,missed,254,2054,600,700,2
+300,Milano Brescia game 1,2 punti sbagliato,,Johannes Voigtmann,missed,254,2054,600,700,2
+301,Milano Brescia game 1,3 punti segnato,Stefano Tonut,Diego Flaccadori,made,273,2073,105,532,6
+302,Milano Brescia game 1,3 punti sbagliato,,Johannes Voigtmann,missed,307,2107,825,924,7
+303,Milano Brescia game 1,2 punti sbagliato,,Nicolò Melli,missed,323,2123,885,756,3
+304,Milano Brescia game 1,3 punti sbagliato,,Stefano Tonut,missed,369,2169,1380,504,8
+305,Milano Brescia game 1,3 punti sbagliato,,Nikola Mirotic,missed,411,2211,1455,112,8
+306,Milano Brescia game 1,3 punti sbagliato,,Shabazz Napier,missed,474,2274,690,924,6
+307,Milano Brescia game 1,3 punti sbagliato,,Devon Hall,missed,512,2312,1320,756,7
+308,Milano Brescia game 1,2 punti sbagliato,,Diego Flaccadori,missed,529,2329,435,224,1
+309,Milano Brescia game 1,2 punti segnato,,Nicolò Melli,made,529,2329,435,224,1
+310,Milano Brescia game 1,2 punti segnato,Shabazz Napier,Nicolò Melli,made,566,2366,195,336,1
+311,Milano Brescia game 2,2 punti sbagliato,,Nikola Mirotic,missed,36,36,780,252,0
+312,Milano Brescia game 2,2 punti segnato,,Shavon Shields,made,94,94,810,392,0
+313,Milano Brescia game 2,3 punti segnato,Nicolò Melli,Nikola Mirotic,made,113,113,45,168,5
+314,Milano Brescia game 2,3 punti sbagliato,,Shabazz Napier,missed,154,154,1065,924,7
+315,Milano Brescia game 2,3 punti segnato,Shabazz Napier,Shavon Shields,made,183,183,1260,728,7
+316,Milano Brescia game 2,3 punti sbagliato,,Stefano Tonut,missed,227,227,225,756,6
+317,Milano Brescia game 2,3 punti segnato,,Stefano Tonut,made,242,242,300,784,6
+318,Milano Brescia game 2,3 punti sbagliato,,Nikola Mirotic,missed,275,275,675,980,6
+319,Milano Brescia game 2,3 punti segnato,Johannes Voigtmann,Devon Hall,made,346,346,390,896,6
+320,Milano Brescia game 2,3 punti segnato,Diego Flaccadori,Devon Hall,made,378,378,285,840,6
+321,Milano Brescia game 2,3 punti sbagliato,,Stefano Tonut,missed,422,422,735,1008,6
+322,Milano Brescia game 2,3 punti sbagliato,,Diego Flaccadori,missed,454,454,855,952,7
+323,Milano Brescia game 2,3 punti sbagliato,,Devon Hall,missed,512,512,1455,196,8
+324,Milano Brescia game 2,2 punti sbagliato,,Diego Flaccadori,missed,530,530,465,504,2
+325,Milano Brescia game 2,3 punti sbagliato,,Shavon Shields,missed,547,547,465,980,6
+326,Milano Brescia game 2,3 punti sbagliato,,Diego Flaccadori,missed,596,596,45,252,5
+327,Milano Brescia game 2,3 punti sbagliato,,Johannes Voigtmann,missed,18,618,90,476,5
+328,Milano Brescia game 2,2 punti segnato,Devon Hall,Johannes Voigtmann,made,23,623,780,252,0
+329,Milano Brescia game 2,3 punti sbagliato,,Nikola Mirotic,missed,69,669,285,840,6
+330,Milano Brescia game 2,2 punti sbagliato,,Nikola Mirotic,missed,95,695,600,336,0
+331,Milano Brescia game 2,3 punti sbagliato,,Devon Hall,missed,130,730,210,812,6
+332,Milano Brescia game 2,2 punti sbagliato,,Stefano Tonut,missed,168,768,855,336,0
+333,Milano Brescia game 2,2 punti sbagliato,,Shabazz Napier,missed,196,796,660,392,2
+334,Milano Brescia game 2,2 punti sbagliato,,Nicolò Melli,missed,225,825,630,336,0
+335,Milano Brescia game 2,2 punti segnato,,Nikola Mirotic,made,225,825,630,336,0
+336,Milano Brescia game 2,3 punti segnato,,Shabazz Napier,made,272,872,555,952,6
+337,Milano Brescia game 2,3 punti sbagliato,,Nikola Mirotic,missed,308,908,30,224,5
+338,Milano Brescia game 2,2 punti sbagliato,,Nicolò Melli,missed,370,970,570,532,2
+339,Milano Brescia game 2,2 punti segnato,Shabazz Napier,Nicolò Melli,made,397,997,735,140,0
+340,Milano Brescia game 2,3 punti sbagliato,,Devon Hall,missed,459,1059,1320,616,7
+341,Milano Brescia game 2,2 punti sbagliato,,Devon Hall,missed,494,1094,960,280,0
+342,Milano Brescia game 2,2 punti sbagliato,,Devon Hall,missed,520,1120,645,224,0
+343,Milano Brescia game 2,2 punti sbagliato,,Kyle Hines,missed,520,1120,645,224,0
+344,Milano Brescia game 2,2 punti segnato,,Shavon Shields,made,595,1195,840,224,0
+345,Milano Brescia game 2,2 punti sbagliato,,Nikola Mirotic,missed,45,1245,1050,196,4
+346,Milano Brescia game 2,2 punti segnato,,Shabazz Napier,made,81,1281,705,224,0
+347,Milano Brescia game 2,3 punti segnato,Shavon Shields,Nikola Mirotic,made,110,1310,1200,868,7
+348,Milano Brescia game 2,3 punti sbagliato,,Shavon Shields,missed,137,1337,1290,784,7
+349,Milano Brescia game 2,3 punti sbagliato,,Shabazz Napier,missed,192,1392,1335,616,7
+350,Milano Brescia game 2,3 punti segnato,Stefano Tonut,Nikola Mirotic,made,207,1407,1425,392,8
+351,Milano Brescia game 2,2 punti segnato,Shabazz Napier,Nikola Mirotic,made,237,1437,750,140,0
+352,Milano Brescia game 2,2 punti sbagliato,,Nikola Mirotic,missed,284,1484,315,196,1
+353,Milano Brescia game 2,2 punti segnato,Shavon Shields,Nikola Mirotic,made,331,1531,825,168,0
+354,Milano Brescia game 2,2 punti segnato,,Shavon Shields,made,348,1548,810,196,0
+355,Milano Brescia game 2,2 punti sbagliato,,Stefano Tonut,missed,374,1574,870,224,0
+356,Milano Brescia game 2,2 punti segnato,,Devon Hall,made,395,1595,900,448,3
+357,Milano Brescia game 2,3 punti segnato,Johannes Voigtmann,Devon Hall,made,438,1638,1455,308,8
+358,Milano Brescia game 2,3 punti segnato,Stefano Tonut,Johannes Voigtmann,made,480,1680,60,196,5
+359,Milano Brescia game 2,2 punti sbagliato,,Kyle Hines,missed,546,1746,375,196,1
+360,Milano Brescia game 2,2 punti sbagliato,,Diego Flaccadori,missed,563,1763,795,252,0
+361,Milano Brescia game 2,2 punti sbagliato,,Kyle Hines,missed,563,1763,795,252,0
+362,Milano Brescia game 2,2 punti sbagliato,,Johannes Voigtmann,missed,563,1763,795,252,0
+363,Milano Brescia game 2,2 punti segnato,,Johannes Voigtmann,made,563,1763,795,252,0
+364,Milano Brescia game 2,3 punti segnato,Kyle Hines,Johannes Voigtmann,made,45,1845,1200,952,7
+365,Milano Brescia game 2,3 punti sbagliato,,Johannes Voigtmann,missed,82,1882,105,504,5
+366,Milano Brescia game 2,3 punti segnato,Diego Flaccadori,Shavon Shields,made,89,1889,1035,952,7
+367,Milano Brescia game 2,3 punti sbagliato,,Nikola Mirotic,missed,178,1978,60,168,5
+368,Milano Brescia game 2,3 punti sbagliato,,Nicolò Melli,missed,202,2002,300,784,6
+369,Milano Brescia game 2,2 punti segnato,Devon Hall,Shavon Shields,made,223,2023,675,196,0
+370,Milano Brescia game 2,2 punti sbagliato,,Nikola Mirotic,missed,265,2065,1200,336,4
+371,Milano Brescia game 2,3 punti sbagliato,,Shavon Shields,missed,296,2096,1290,784,7
+372,Milano Brescia game 2,3 punti segnato,Devon Hall,Nikola Mirotic,made,312,2112,60,112,5
+373,Milano Brescia game 2,3 punti segnato,Devon Hall,Nicolò Melli,made,369,2169,1410,504,8
+374,Milano Brescia game 2,2 punti segnato,Nicolò Melli,Nikola Mirotic,made,424,2224,825,252,0
+375,Milano Brescia game 3,2 punti segnato,Stefano Tonut,Nicolò Melli,made,35,35,615,644,2
+376,Milano Brescia game 3,2 punti segnato,,Stefano Tonut,made,54,54,735,168,0
+377,Milano Brescia game 3,3 punti sbagliato,,Nikola Mirotic,missed,67,67,615,896,6
+378,Milano Brescia game 3,3 punti segnato,,Shabazz Napier,made,69,69,765,868,7
+379,Milano Brescia game 3,3 punti sbagliato,,Nikola Mirotic,missed,103,103,1335,672,7
+380,Milano Brescia game 3,3 punti sbagliato,,Stefano Tonut,missed,151,151,1185,784,7
+381,Milano Brescia game 3,3 punti segnato,Shabazz Napier,Nicolò Melli,made,161,161,1110,840,7
+382,Milano Brescia game 3,2 punti sbagliato,,Nicolò Melli,missed,206,206,225,112,1
+383,Milano Brescia game 3,3 punti segnato,,Shabazz Napier,made,273,273,945,840,7
+384,Milano Brescia game 3,3 punti segnato,Nikola Mirotic,Shavon Shields,made,300,300,375,784,6
+385,Milano Brescia game 3,3 punti sbagliato,,Devon Hall,missed,333,333,1125,812,7
+386,Milano Brescia game 3,3 punti sbagliato,,Shavon Shields,missed,338,338,495,840,6
+387,Milano Brescia game 3,3 punti segnato,Diego Flaccadori,Devon Hall,made,361,361,1275,700,7
+388,Milano Brescia game 3,2 punti sbagliato,,Shavon Shields,missed,397,397,645,672,2
+389,Milano Brescia game 3,2 punti segnato,,Devon Hall,made,421,421,810,140,0
+390,Milano Brescia game 3,3 punti sbagliato,,Johannes Voigtmann,missed,462,462,1125,840,7
+391,Milano Brescia game 3,2 punti segnato,,Johannes Voigtmann,made,489,489,705,140,0
+392,Milano Brescia game 3,3 punti segnato,Diego Flaccadori,Giampaolo Ricci,made,556,556,270,728,6
+393,Milano Brescia game 3,3 punti segnato,Diego Flaccadori,Giampaolo Ricci,made,586,586,45,196,5
+394,Milano Brescia game 3,3 punti sbagliato,,Devon Hall,missed,32,632,1185,756,7
+395,Milano Brescia game 3,3 punti segnato,Johannes Voigtmann,Shabazz Napier,made,70,670,735,896,6
+396,Milano Brescia game 3,2 punti sbagliato,,Shabazz Napier,missed,139,739,855,140,0
+397,Milano Brescia game 3,2 punti segnato,,Giampaolo Ricci,made,149,749,900,252,0
+398,Milano Brescia game 3,3 punti segnato,,Shabazz Napier,made,169,769,1245,728,7
+399,Milano Brescia game 3,2 punti sbagliato,,Stefano Tonut,missed,197,797,705,224,0
+400,Milano Brescia game 3,2 punti sbagliato,,Nikola Mirotic,missed,223,823,1275,168,4
+401,Milano Brescia game 3,3 punti segnato,Nicolò Melli,Nikola Mirotic,made,253,853,840,868,7
+402,Milano Brescia game 3,3 punti segnato,Nicolò Melli,Stefano Tonut,made,317,917,465,812,6
+403,Milano Brescia game 3,2 punti sbagliato,,Shavon Shields,missed,341,941,795,168,0
+404,Milano Brescia game 3,3 punti segnato,Shabazz Napier,Shavon Shields,made,391,991,1125,812,7
+405,Milano Brescia game 3,2 punti sbagliato,,Stefano Tonut,missed,425,1025,855,224,0
+406,Milano Brescia game 3,2 punti sbagliato,,Shavon Shields,missed,427,1027,1170,252,4
+407,Milano Brescia game 3,3 punti segnato,Kyle Hines,Giampaolo Ricci,made,492,1092,255,672,6
+408,Milano Brescia game 3,3 punti segnato,Shabazz Napier,Shavon Shields,made,500,1100,270,700,6
+409,Milano Brescia game 3,3 punti sbagliato,,Shavon Shields,missed,578,1178,555,896,6
+410,Milano Brescia game 3,3 punti sbagliato,,Johannes Voigtmann,missed,600,1200,645,1204,6
+411,Milano Brescia game 3,3 punti sbagliato,,Nikola Mirotic,missed,12,1212,615,896,6
+412,Milano Brescia game 3,2 punti sbagliato,,Nicolò Melli,missed,61,1261,405,588,2
+413,Milano Brescia game 3,3 punti sbagliato,,Shabazz Napier,missed,98,1298,375,812,6
+414,Milano Brescia game 3,2 punti segnato,Nicolò Melli,Giampaolo Ricci,made,150,1350,675,224,0
+415,Milano Brescia game 3,2 punti sbagliato,,Nicolò Melli,missed,173,1373,765,196,0
+416,Milano Brescia game 3,2 punti segnato,,Nikola Mirotic,made,173,1373,765,196,0
+417,Milano Brescia game 3,3 punti segnato,Devon Hall,Nikola Mirotic,made,245,1445,180,644,6
+418,Milano Brescia game 3,3 punti sbagliato,,Devon Hall,missed,285,1485,105,476,5
+419,Milano Brescia game 3,2 punti segnato,,Nikola Mirotic,made,333,1533,1095,280,4
+420,Milano Brescia game 3,2 punti segnato,,Kyle Hines,made,373,1573,750,168,0
+421,Milano Brescia game 3,3 punti segnato,Shavon Shields,Giampaolo Ricci,made,414,1614,1440,224,8
+422,Milano Brescia game 3,3 punti sbagliato,,Giampaolo Ricci,missed,503,1703,1050,868,7
+423,Milano Brescia game 3,2 punti segnato,,Shavon Shields,made,523,1723,765,308,0
+424,Milano Brescia game 3,3 punti sbagliato,,Diego Flaccadori,missed,572,1772,1125,812,7
+425,Milano Brescia game 3,2 punti segnato,,Johannes Voigtmann,made,572,1772,705,224,0
+426,Milano Brescia game 3,3 punti segnato,Johannes Voigtmann,Kyle Hines,made,600,1800,420,868,6
+427,Milano Brescia game 3,2 punti segnato,,Diego Flaccadori,made,32,1832,735,224,0
+428,Milano Brescia game 3,2 punti sbagliato,,Johannes Voigtmann,missed,109,1909,435,504,2
+429,Milano Brescia game 3,3 punti segnato,,Devon Hall,made,115,1915,360,868,6
+430,Milano Brescia game 3,2 punti segnato,,Diego Flaccadori,made,145,1945,660,196,0
+431,Milano Brescia game 3,2 punti segnato,Johannes Voigtmann,Devon Hall,made,200,2000,720,168,0
+432,Milano Brescia game 3,3 punti sbagliato,,Nicolò Melli,missed,249,2049,255,756,6
+433,Milano Brescia game 3,3 punti sbagliato,,Shabazz Napier,missed,345,2145,945,868,7
+434,Milano Brescia game 3,2 punti segnato,,Nicolò Melli,made,355,2155,600,280,0
+435,Milano Brescia game 3,2 punti sbagliato,,Shavon Shields,missed,385,2185,615,616,2
+436,Milano Brescia game 3,2 punti segnato,,Devon Hall,made,418,2218,795,252,0
+437,Milano Brescia game 3,3 punti sbagliato,,Diego Flaccadori,missed,446,2246,465,840,6
+438,Milano Brescia game 3,2 punti sbagliato,,Stefano Tonut,missed,476,2276,570,476,2
+439,Milano Brescia game 3,2 punti segnato,,Devon Hall,made,511,2311,1005,700,3
+440,Milano Brescia game 3,3 punti sbagliato,,Giampaolo Ricci,missed,551,2351,1095,812,7
+441,24451,2 punti segnato,,Stefano Tonut,made,55,55,660,224,0
+442,24451,2 punti sbagliato,,Nicolò Melli,missed,100,100,525,728,2
+443,24451,2 punti sbagliato,,Nicolò Melli,missed,159,159,870,196,0
+444,24451,2 punti segnato,,Nicolò Melli,made,159,159,870,196,0
+445,24451,3 punti sbagliato,,Devon Hall,missed,194,194,1335,616,7
+446,24451,2 punti sbagliato,,Stefano Tonut,missed,227,227,825,168,0
+447,24451,2 punti sbagliato,,Johannes Voigtmann,missed,281,281,1185,252,4
+448,24451,2 punti sbagliato,,Shavon Shields,missed,303,303,840,224,0
+449,24451,2 punti segnato,,Nicolò Melli,made,303,303,840,224,0
+450,24451,3 punti sbagliato,,Stefano Tonut,missed,352,352,135,672,6
+451,24451,2 punti segnato,,Shabazz Napier,made,383,383,870,252,0
+452,24451,2 punti sbagliato,,Shavon Shields,missed,440,440,585,476,2
+453,24451,3 punti segnato,,Shabazz Napier,made,468,468,1200,784,7
+454,24451,3 punti sbagliato,,Shabazz Napier,missed,508,508,180,672,6
+455,24451,3 punti sbagliato,,Shavon Shields,missed,519,519,225,784,6
+456,24451,3 punti sbagliato,,Diego Flaccadori,missed,572,572,30,140,5
+457,24451,3 punti sbagliato,,Devon Hall,missed,600,600,735,1344,6
+458,24451,3 punti sbagliato,,Giampaolo Ricci,missed,70,670,900,924,7
+459,24451,2 punti sbagliato,,Devon Hall,missed,99,699,675,280,0
+460,24451,2 punti sbagliato,,Stefano Tonut,missed,150,750,1140,644,3
+461,24451,2 punti segnato,,Shabazz Napier,made,223,823,825,196,0
+462,24451,2 punti sbagliato,,Nikola Mirotic,missed,281,881,630,252,0
+463,24451,2 punti sbagliato,,Nicolò Melli,missed,363,963,660,672,2
+464,24451,2 punti segnato,Shavon Shields,Nicolò Melli,made,395,995,660,224,0
+465,24451,2 punti sbagliato,,Nicolò Melli,missed,474,1074,675,560,2
+466,24451,2 punti sbagliato,,Kyle Hines,missed,510,1110,795,196,0
+467,24451,2 punti sbagliato,,Johannes Voigtmann,missed,530,1130,840,224,0
+468,24451,2 punti segnato,,Kyle Hines,made,530,1130,840,224,0
+469,24451,3 punti sbagliato,,Shabazz Napier,missed,580,1180,645,952,6
+470,24451,3 punti segnato,,Shabazz Napier,made,14,1214,450,868,6
+471,24451,2 punti sbagliato,,Nicolò Melli,missed,104,1304,975,616,3
+472,24451,2 punti sbagliato,,Nicolò Melli,missed,190,1390,690,560,2
+473,24451,2 punti sbagliato,,Devon Hall,missed,196,1396,660,168,0
+474,24451,2 punti sbagliato,,Nikola Mirotic,missed,213,1413,705,140,0
+475,24451,2 punti segnato,,Shabazz Napier,made,244,1444,690,140,0
+476,24451,2 punti segnato,Shavon Shields,Devon Hall,made,282,1482,780,196,0
+477,24451,3 punti segnato,Devon Hall,Shavon Shields,made,319,1519,1275,700,7
+478,24451,3 punti sbagliato,,Nicolò Melli,missed,356,1556,1095,868,7
+479,24451,2 punti sbagliato,,Nikola Mirotic,missed,356,1556,1095,868,7
+480,24451,2 punti segnato,,Nikola Mirotic,made,356,1556,1095,868,7
+481,24451,2 punti segnato,,Shavon Shields,made,381,1581,780,252,0
+482,24451,3 punti sbagliato,,Stefano Tonut,missed,420,1620,1125,812,7
+483,24451,3 punti segnato,,Shavon Shields,made,452,1652,1035,924,7
+484,24451,2 punti sbagliato,,Shavon Shields,missed,504,1704,885,196,0
+485,24451,3 punti segnato,Johannes Voigtmann,Devon Hall,made,509,1709,75,476,5
+486,24451,2 punti segnato,Shavon Shields,Kyle Hines,made,552,1752,825,224,0
+487,24451,3 punti segnato,,Shavon Shields,made,595,1795,990,924,7
+488,24451,3 punti sbagliato,,Johannes Voigtmann,missed,63,1863,1305,728,7
+489,24451,3 punti segnato,,Shabazz Napier,made,99,1899,615,924,6
+490,24451,3 punti segnato,Nicolò Melli,Devon Hall,made,143,1943,1260,784,7
+491,24451,2 punti sbagliato,,Stefano Tonut,missed,177,1977,1275,168,4
+492,24451,2 punti sbagliato,,Nikola Mirotic,missed,227,2027,345,196,1
+493,24451,3 punti sbagliato,,Shabazz Napier,missed,246,2046,555,896,6
+494,24451,2 punti sbagliato,,Nicolò Melli,missed,332,2132,810,588,3
+495,24451,2 punti segnato,,Shavon Shields,made,403,2203,825,196,0
+496,24451,2 punti sbagliato,,Shabazz Napier,missed,475,2275,675,196,0
+497,24451,2 punti sbagliato,,Shavon Shields,missed,509,2309,825,616,3
+498,24451,3 punti sbagliato,,Nikola Mirotic,missed,537,2337,270,728,6
+499,24451,3 punti segnato,,Shabazz Napier,made,567,2367,540,868,6
+500,24451,2 punti sbagliato,,Shabazz Napier,missed,597,2397,795,224,0
+501,24451,2 punti segnato,,Nicolò Melli,made,313,2413,1155,252,4
+502,24451,3 punti segnato,,Shavon Shields,made,348,2448,1230,784,7
+503,24451,2 punti sbagliato,,Shabazz Napier,missed,387,2487,1065,532,3
+504,24451,3 punti segnato,,Shavon Shields,made,427,2527,405,812,6
+505,24451,3 punti segnato,,Shavon Shields,made,457,2557,225,672,6
+506,24451,3 punti sbagliato,,Devon Hall,missed,499,2599,600,924,6
+507,24451,2 punti segnato,,Devon Hall,made,544,2644,765,224,0
+508,24451,3 punti segnato,,Devon Hall,made,577,2677,300,812,6
+509,24452,3 punti sbagliato,,Nikola Mirotic,missed,44,44,705,952,6
+510,24452,3 punti sbagliato,,Shabazz Napier,missed,76,76,1155,812,7
+511,24452,2 punti sbagliato,,Shabazz Napier,missed,82,82,810,196,0
+512,24452,2 punti sbagliato,,Nicolò Melli,missed,92,92,750,140,0
+513,24452,3 punti segnato,,Nikola Mirotic,made,111,111,1350,616,7
+514,24452,3 punti sbagliato,,Nikola Mirotic,missed,149,149,1455,168,8
+515,24452,3 punti segnato,,Stefano Tonut,made,275,275,435,868,6
+516,24452,3 punti segnato,Shabazz Napier,Nicolò Melli,made,315,315,150,756,6
+517,24452,2 punti segnato,,Stefano Tonut,made,380,380,675,196,0
+518,24452,2 punti sbagliato,,Shavon Shields,missed,411,411,735,364,0
+519,24452,2 punti sbagliato,,Stefano Tonut,missed,424,424,945,336,3
+520,24452,2 punti sbagliato,,Shavon Shields,missed,450,450,810,196,0
+521,24452,2 punti segnato,Shavon Shields,Kyle Hines,made,558,558,690,224,0
+522,24452,3 punti sbagliato,,Devon Hall,missed,588,588,1305,840,7
+523,24452,3 punti sbagliato,,Shavon Shields,missed,597,597,210,756,6
+524,24452,3 punti segnato,Johannes Voigtmann,Devon Hall,made,38,638,435,896,6
+525,24452,2 punti sbagliato,,Shabazz Napier,missed,110,710,555,532,2
+526,24452,2 punti sbagliato,,Shabazz Napier,missed,148,748,735,504,2
+527,24452,2 punti segnato,,Devon Hall,made,174,774,540,532,2
+528,24452,2 punti segnato,Shabazz Napier,Nicolò Melli,made,221,821,765,308,0
+529,24452,2 punti segnato,,Stefano Tonut,made,284,884,1035,644,3
+530,24452,2 punti segnato,,Shabazz Napier,made,328,928,915,672,3
+531,24452,3 punti sbagliato,,Stefano Tonut,missed,365,965,1455,280,8
+532,24452,2 punti sbagliato,,Kyle Hines,missed,389,989,735,140,0
+533,24452,3 punti sbagliato,,Shavon Shields,missed,435,1035,45,336,5
+534,24452,3 punti sbagliato,,Nikola Mirotic,missed,467,1067,150,616,6
+535,24452,2 punti sbagliato,,Stefano Tonut,missed,513,1113,270,476,2
+536,24452,2 punti segnato,,Shavon Shields,made,545,1145,615,308,0
+537,24452,2 punti sbagliato,,Stefano Tonut,missed,589,1189,1275,392,4
+538,24452,3 punti sbagliato,,Shavon Shields,missed,600,1200,1350,1092,7
+539,24452,3 punti sbagliato,,Devon Hall,missed,48,1248,1305,700,7
+540,24452,2 punti sbagliato,,Nikola Mirotic,missed,92,1292,645,224,0
+541,24452,3 punti segnato,,Shabazz Napier,made,100,1300,240,700,6
+542,24452,3 punti sbagliato,,Shabazz Napier,missed,138,1338,705,980,6
+543,24452,3 punti segnato,Stefano Tonut,Devon Hall,made,165,1365,1215,784,7
+544,24452,2 punti sbagliato,,Shavon Shields,missed,202,1402,705,280,0
+545,24452,2 punti segnato,,Devon Hall,made,217,1417,825,168,0
+546,24452,2 punti segnato,Diego Flaccadori,Nicolò Melli,made,264,1464,795,252,0
+547,24452,2 punti segnato,,Nikola Mirotic,made,292,1492,780,224,0
+548,24452,2 punti sbagliato,,Diego Flaccadori,missed,347,1547,945,532,3
+549,24452,2 punti sbagliato,,Nikola Mirotic,missed,347,1547,945,532,3
+550,24452,2 punti sbagliato,,Nicolò Melli,missed,383,1583,825,672,3
+551,24452,3 punti sbagliato,,Diego Flaccadori,missed,399,1599,1395,616,7
+552,24452,2 punti sbagliato,,Nikola Mirotic,missed,405,1605,585,196,0
+553,24452,3 punti segnato,Devon Hall,Nikola Mirotic,made,436,1636,390,840,6
+554,24452,2 punti segnato,,Diego Flaccadori,made,462,1662,765,224,0
+555,24452,3 punti sbagliato,,Diego Flaccadori,missed,497,1697,645,924,6
+556,24452,2 punti segnato,,Johannes Voigtmann,made,547,1747,735,308,0
+557,24452,2 punti sbagliato,,Diego Flaccadori,missed,586,1786,420,532,2
+558,24452,2 punti segnato,,Shabazz Napier,made,25,1825,1020,560,3
+559,24452,2 punti segnato,,Stefano Tonut,made,51,1851,705,224,0
+560,24452,2 punti segnato,,Shavon Shields,made,66,1866,765,140,0
+561,24452,3 punti sbagliato,,Stefano Tonut,missed,185,1985,780,924,7
+562,24452,2 punti sbagliato,,Nicolò Melli,missed,207,2007,225,196,1
+563,24452,3 punti sbagliato,,Nikola Mirotic,missed,290,2090,1395,588,7
+564,24452,3 punti sbagliato,,Nikola Mirotic,missed,328,2128,45,112,5
+565,24452,2 punti segnato,,Devon Hall,made,328,2128,45,112,5
+566,24452,3 punti sbagliato,,Shabazz Napier,missed,371,2171,45,252,5
+567,24452,3 punti sbagliato,,Nicolò Melli,missed,408,2208,1470,84,8
+568,24452,3 punti segnato,Devon Hall,Nikola Mirotic,made,441,2241,45,140,5
+569,24452,3 punti sbagliato,,Nikola Mirotic,missed,474,2274,1365,784,7
+570,24452,3 punti sbagliato,,Shabazz Napier,missed,565,2365,465,868,6
+571,24453,2 punti sbagliato,,Shavon Shields,missed,8,8,795,196,0
+572,24453,2 punti segnato,,Shavon Shields,made,8,8,795,196,0
+573,24453,2 punti segnato,Nicolò Melli,Nikola Mirotic,made,53,53,690,308,0
+574,24453,3 punti sbagliato,,Stefano Tonut,missed,90,90,270,728,6
+575,24453,2 punti segnato,Nicolò Melli,Shavon Shields,made,118,118,810,280,0
+576,24453,3 punti sbagliato,,Nikola Mirotic,missed,146,146,150,672,6
+577,24453,3 punti sbagliato,,Nicolò Melli,missed,212,212,1200,756,7
+578,24453,2 punti segnato,,Nikola Mirotic,made,243,243,735,364,0
+579,24453,2 punti sbagliato,,Nicolò Melli,missed,286,286,795,252,0
+580,24453,2 punti segnato,Shabazz Napier,Nicolò Melli,made,312,312,735,196,0
+581,24453,2 punti sbagliato,,Shavon Shields,missed,344,344,870,672,3
+582,24453,2 punti sbagliato,,Shavon Shields,missed,355,355,585,336,0
+583,24453,2 punti segnato,Shabazz Napier,Kyle Hines,made,368,368,720,224,0
+584,24453,2 punti segnato,Kyle Hines,Nikola Mirotic,made,425,425,765,196,0
+585,24453,2 punti sbagliato,,Nikola Mirotic,missed,457,457,1245,280,4
+586,24453,2 punti segnato,,Shavon Shields,made,488,488,780,196,0
+587,24453,2 punti sbagliato,,Shavon Shields,missed,511,511,675,336,0
+588,24453,3 punti sbagliato,,Johannes Voigtmann,missed,521,521,1380,616,7
+589,24453,3 punti sbagliato,,Diego Flaccadori,missed,527,527,465,896,6
+590,24453,2 punti segnato,,Johannes Voigtmann,made,527,527,465,896,6
+591,24453,3 punti segnato,Johannes Voigtmann,Diego Flaccadori,made,567,567,15,224,5
+592,24453,3 punti segnato,,Devon Hall,made,599,599,225,700,6
+593,24453,2 punti segnato,,Devon Hall,made,63,663,660,336,0
+594,24453,2 punti segnato,,Nicolò Melli,made,112,712,780,224,0
+595,24453,3 punti sbagliato,,Giampaolo Ricci,missed,165,765,1170,812,7
+596,24453,2 punti segnato,Nicolò Melli,Diego Flaccadori,made,172,772,465,588,2
+597,24453,2 punti segnato,,Diego Flaccadori,made,226,826,630,196,0
+598,24453,3 punti sbagliato,,Giampaolo Ricci,missed,256,856,1440,196,8
+599,24453,2 punti sbagliato,,Shabazz Napier,missed,296,896,315,252,1
+600,24453,3 punti segnato,,Shabazz Napier,made,326,926,420,868,6
+601,24453,3 punti sbagliato,,Stefano Tonut,missed,367,967,1230,756,7
+602,24453,3 punti sbagliato,,Shavon Shields,missed,395,995,195,812,6
+603,24453,3 punti sbagliato,,Shabazz Napier,missed,424,1024,555,896,6
+604,24453,2 punti segnato,Shabazz Napier,Nikola Mirotic,made,499,1099,765,224,0
+605,24453,2 punti sbagliato,,Diego Flaccadori,missed,546,1146,735,392,0
+606,24453,2 punti segnato,,Diego Flaccadori,made,585,1185,345,560,2
+607,24453,3 punti sbagliato,,Shavon Shields,missed,27,1227,570,952,6
+608,24453,3 punti segnato,Shabazz Napier,Stefano Tonut,made,111,1311,45,280,5
+609,24453,2 punti sbagliato,,Nikola Mirotic,missed,141,1341,870,364,0
+610,24453,2 punti segnato,Stefano Tonut,Nikola Mirotic,made,176,1376,885,196,0
+611,24453,2 punti sbagliato,,Stefano Tonut,missed,210,1410,900,196,0
+612,24453,3 punti segnato,Shabazz Napier,Nikola Mirotic,made,227,1427,45,84,5
+613,24453,3 punti sbagliato,,Shavon Shields,missed,270,1470,1305,700,7
+614,24453,3 punti sbagliato,,Shabazz Napier,missed,301,1501,1125,812,7
+615,24453,3 punti segnato,Diego Flaccadori,Johannes Voigtmann,made,337,1537,855,980,7
+616,24453,2 punti sbagliato,,Johannes Voigtmann,missed,397,1597,345,308,1
+617,24453,3 punti sbagliato,,Shavon Shields,missed,432,1632,975,896,7
+618,24453,2 punti segnato,Devon Hall,Diego Flaccadori,made,491,1691,750,196,0
+619,24453,2 punti sbagliato,,Shavon Shields,missed,549,1749,705,280,0
+620,24453,3 punti sbagliato,,Shavon Shields,missed,568,1768,1290,728,7
+621,24453,2 punti sbagliato,,Johannes Voigtmann,missed,568,1768,1290,728,7
+622,24453,3 punti sbagliato,,Shavon Shields,missed,599,1799,810,1204,7
+623,24453,2 punti sbagliato,,Diego Flaccadori,missed,23,1823,525,616,2
+624,24453,2 punti sbagliato,,Nicolò Melli,missed,54,1854,765,224,0
+625,24453,2 punti segnato,,Shabazz Napier,made,84,1884,795,252,0
+626,24453,2 punti segnato,,Shabazz Napier,made,115,1915,660,224,0
+627,24453,2 punti segnato,Shabazz Napier,Nikola Mirotic,made,152,1952,720,196,0
+628,24453,3 punti sbagliato,,Nikola Mirotic,missed,177,1977,1350,588,7
+629,24453,2 punti segnato,,Shabazz Napier,made,209,2009,720,196,0
+630,24453,3 punti sbagliato,,Shabazz Napier,missed,250,2050,855,952,7
+631,24453,2 punti segnato,,Shabazz Napier,made,352,2152,750,448,2
+632,24453,2 punti sbagliato,,Nicolò Melli,missed,406,2206,390,532,2
+633,24453,2 punti sbagliato,,Shavon Shields,missed,471,2271,975,560,3
+634,24453,2 punti segnato,,Shavon Shields,made,517,2317,840,252,0
+635,24453,2 punti sbagliato,,Shabazz Napier,missed,543,2343,885,728,3
+636,24453,2 punti sbagliato,,Shavon Shields,missed,583,2383,960,308,3
+637,24454,3 punti sbagliato,,Nikola Mirotic,missed,43,43,1230,700,7
+638,24454,2 punti segnato,,Stefano Tonut,made,87,87,615,252,0
+639,24454,2 punti sbagliato,,Nicolò Melli,missed,141,141,645,196,0
+640,24454,2 punti segnato,,Nikola Mirotic,made,220,220,855,252,0
+641,24454,3 punti sbagliato,,Nikola Mirotic,missed,279,279,360,924,6
+642,24454,3 punti sbagliato,,Shabazz Napier,missed,292,292,630,980,6
+643,24454,2 punti segnato,Nicolò Melli,Stefano Tonut,made,314,314,750,336,0
+644,24454,3 punti segnato,,Stefano Tonut,made,333,333,930,868,7
+645,24454,2 punti sbagliato,,Diego Flaccadori,missed,365,365,1050,644,3
+646,24454,2 punti sbagliato,,Shavon Shields,missed,402,402,690,280,0
+647,24454,2 punti sbagliato,,Diego Flaccadori,missed,431,431,525,616,2
+648,24454,3 punti sbagliato,,Shavon Shields,missed,486,486,1275,644,7
+649,24454,3 punti segnato,Shavon Shields,Diego Flaccadori,made,540,540,195,672,6
+650,24454,2 punti segnato,,Johannes Voigtmann,made,582,582,510,336,2
+651,24454,3 punti sbagliato,,Johannes Voigtmann,missed,42,642,1230,700,7
+652,24454,2 punti segnato,,Devon Hall,made,77,677,705,252,0
+653,24454,2 punti segnato,Stefano Tonut,Johannes Voigtmann,made,113,713,780,252,0
+654,24454,2 punti sbagliato,,Stefano Tonut,missed,153,753,735,364,0
+655,24454,2 punti segnato,Shabazz Napier,Nicolò Melli,made,179,779,855,224,0
+656,24454,3 punti segnato,Shabazz Napier,Nicolò Melli,made,261,861,180,756,6
+657,24454,3 punti segnato,Shavon Shields,Shabazz Napier,made,317,917,360,1064,6
+658,24454,2 punti segnato,Nicolò Melli,Nikola Mirotic,made,355,955,1245,504,3
+659,24454,2 punti segnato,Shabazz Napier,Nikola Mirotic,made,392,992,660,252,0
+660,24454,2 punti sbagliato,,Devon Hall,missed,486,1086,1005,280,4
+661,24454,2 punti segnato,,Nikola Mirotic,made,486,1086,1005,280,4
+662,24454,3 punti sbagliato,,Devon Hall,missed,524,1124,1005,840,7
+663,24454,3 punti sbagliato,,Nikola Mirotic,missed,567,1167,375,980,6
+664,24454,3 punti sbagliato,,Stefano Tonut,missed,33,1233,1455,252,8
+665,24454,3 punti segnato,Shabazz Napier,Nikola Mirotic,made,39,1239,525,840,6
+666,24454,3 punti segnato,Stefano Tonut,Nicolò Melli,made,83,1283,45,196,5
+667,24454,2 punti sbagliato,,Nicolò Melli,missed,124,1324,780,728,3
+668,24454,2 punti sbagliato,,Nicolò Melli,missed,170,1370,1080,336,4
+669,24454,2 punti sbagliato,,Nikola Mirotic,missed,263,1463,825,252,0
+670,24454,2 punti sbagliato,,Shavon Shields,missed,300,1500,915,336,0
+671,24454,2 punti sbagliato,,Nikola Mirotic,missed,323,1523,555,224,0
+672,24454,3 punti segnato,Diego Flaccadori,Shavon Shields,made,359,1559,225,728,6
+673,24454,2 punti segnato,Shavon Shields,Kyle Hines,made,404,1604,840,224,0
+674,24454,3 punti sbagliato,,Johannes Voigtmann,missed,437,1637,1350,560,7
+675,24454,2 punti segnato,,Diego Flaccadori,made,470,1670,645,252,0
+676,24454,2 punti sbagliato,,Johannes Voigtmann,missed,505,1705,705,308,0
+677,24454,2 punti sbagliato,,Johannes Voigtmann,missed,547,1747,765,420,3
+678,24454,3 punti segnato,,Shavon Shields,made,587,1787,765,1036,7
+679,24454,3 punti sbagliato,,Devon Hall,missed,136,1936,1140,868,7
+680,24454,3 punti segnato,Devon Hall,Nikola Mirotic,made,280,2080,90,504,5
+681,24454,2 punti segnato,,Devon Hall,made,344,2144,690,224,0
+682,24454,3 punti sbagliato,,Nicolò Melli,missed,488,2288,1440,364,8
+683,24454,2 punti segnato,Shavon Shields,Diego Flaccadori,made,564,2364,675,168,0
